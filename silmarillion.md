@@ -5,11 +5,14 @@
 ---
 
 *Eä is the whole universe*<br>
-*Arda is the planet*
+*Arda is the planet*<br>
+*Outer lands = Middle-earth after the darkening of Middle-earth*
 
-# Ainulindale (The music of the Ainur)
+---
 
 *Page 3*   
+
+### Ainulindale (The music of the Ainur) starts
 ### Eru - the one - Iluvatar
 
 He is the omnipotent creator. <br>
@@ -110,6 +113,7 @@ He is the lord of the real of Arda.
 Understand Iluvatar's purpose most clearly.
 
 Paired with Varda (Elbereth). Melkor fears her most. She rejected Melkor even before the making of the music. Elves hold her the most in reverence.
+**She is a maker of stars and queen of Valar**. (*page 34*)
 
 #### 2. Ulmo
 
@@ -219,7 +223,7 @@ Manwe and Tulkas tried to catch him, but Melkor escaped to **Utumno**. Valar cou
 
 ---
 
-*page 30, 31*
+*page 30, 31, 32, 33, 34, 35, 36*
 
 ### New dwelling of Valar
 
@@ -248,14 +252,44 @@ Each tree has a 7 hour cycle: it gradually brightens to full radiance, then dims
 The 12-hour day
 After that Opening Hour, time proceeds in 12 hour days:
 
-* Hour 1–6: Telperion shines (with Laurelin waking at 
-* hour 5: the first mingling)
-* Hour 6: Telperion stops blooming; Laurelin takes over
-* Hour 6–12: Laurelin shines (with Telperion waking at 
-* Hour 11: the second mingling)
-* Hour 12: Laurelin fades; the day ends
+* Hour 0: Opening hour. Telperion first awakens
+* Hour 1–6: Telperion shines, peaks, fades
+* Hour 5: Laurelin wakes. **First mingling** of Telperion and Laurelin
+* Hour 6: Telperion starts fading
+* Hour 7–12: Laurelin shines, peaks, fades
+* Hour 11: Telperion wakes. **Second mingling** of Telperion and Laurelin
+* Hour 12: Laurelin starts fading. The day ends.
 
 It is foreshadowed that the trees will be destroyed with phrase **"The Darkening of Valinor"**.
 
 The light from the tree's was physical. It dripped as dew (from Telperion) and rain (from Laurein), and Varda collected these liquids in great reservoirs. These pools served Valinor as both water sources and wells of light.
 Light is a precious liquid.
+
+### Valinor blooms, Middle-earth Under Darkness
+
+Middle earth became Melkor's domain. It lies in darkness under Varda's stars.
+
+The Valar mostly stay behind the Pelori mountains.
+Aulë works in his great mansions. **Later**, he teached the **Noldor** (the most skilled Elves, makers of the Silmarils).
+
+**Manwe** sits on **Taniquetil**. Eagle spirits bring him news of all Arda, except where Melkor's shadow lies impenetrable. Later, **The Vanyar** were the elves he loved the most. he taught them song and poetry. Later, **The Noldor** built him a sceptre made of sapphire. He will become King of the World of Valar and Elves and Men, and the chief defence against the evil of Melkor.
+
+**Ulmo** never enters Valinor, he dwells in the outer oceean governing all water.
+Later in the future **Teleri** elves learned much of Ulmo, and for this reason their music has both sadness and enchantment. Maia **Salmar** came with Ulmo to Arda, he made **the horn of Ulmo**. Maiar **Osse** and **Unien** also came with Ulmo, to whom he gave the government of the waves and the movements of the Inner Seas. Ulmo did not let Arda die, even under the darkess of Melkor.
+
+**Yavanna** secretly returns to Middle earth to heal Melkor's destruction, and she would urge Valar to start a war against Melkor, and they must wage war before **the Children of Iluvatar** arrive.
+
+**Orome** rides on **Nahar** through the dark forests in the Middle earth hunting beasts. His horn **Valaróma** makes Melkor himself hide in Utumno.
+
+
+It is explain that Ainur are not masters to the Children of Iluvatar, but elders and chieftains.
+
+**To the elves it seems that men resemble Melkor the most of all Ainur, although he has ever feared them**
+
+**Iluvatar gave gifts** to both Elves and Men:
+
+* To the Elves (also called Quendi), he made them thee fairest of all earthly creatures, they resemble Ainur the most. They are boung to the world until its end. They don't age. They are immortal unless slain or grieved to death. When slain. they go to **Mandos**, but they may be reborn. Their fate is bound to the Music of the Ainur. **The fate of Elves after the world's end is unknown**, and Melkor has not discovered it.
+
+* To Men (Atani), he gave hearts that seek beyond the world and find no rest within it. They can shape their lives beyond the music, beyond fate itself. They are not bound to Arda since they die, thats how they leave the world. Because of that they are also called "Guests" or "Strangers". **Melkor has corrupted the true meaning of the gift of Men**, death now seems like darkess and fear instead of release. **Men will join in the Second Music of the Ainur** - a future cosmic song after the world's end. Men get to participate in the next creation.
+
+*The immortal Elves don't know what happens to them when the world finally dies. The mortal Men do, they get the next song*

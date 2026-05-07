@@ -1,0 +1,261 @@
+**ISBN:** 9780261102736 \
+**Published:** 2013
+
+
+---
+
+*Eä is the whole universe*<br>
+*Arda is the planet*
+
+# Ainulindale (The music of the Ainur)
+
+*Page 3*   
+### Eru - the one - Iluvatar
+
+He is the omnipotent creator. <br>
+He created Ainur (the Holy Ones).
+
+
+
+---
+
+*page 4*
+
+### Melkor
+
+He is the most powerful Ainur. <br><br>
+He wandered through the void to find the flame (mysterious power of creaion) because he wanted to create sentient beings on his own. <br><br>
+The fire was with Iluvatar all along.
+
+---
+
+*page 5*
+
+### Iluvatar silences discord
+
+Iluvatar silences Melkor's discord two times, and the third time he raises both hands, it results in one final overwhelming chord, and the music stops.<br><br>
+Iluvatar explains to Melkor that he is the one one has the complete control of the song, and that he can reshape every discord into something wonderful.<br><br>
+Melkor's defiance becomes Iluvatar's instrument.
+
+
+---
+
+*page 6*
+
+### Vision of Arda
+
+Until now the Ainur only heard ther music. Iluvatar gives them a vision - they see a globed World suspended in the void. The world begins to unfold its history. <br><br>
+Each Ainu sees his own contributions woven into the design. <br><br>
+Iluvatar reveals the **Children of Iluvatar** (Elves and Men). Iluvatar created them by himself, no Ainu helped make them. They came in with the third theme.
+Main purpose of the music is to prepare a dwelling for these children
+
+---
+
+*page 7, 8*
+
+### Revealing the upcoming Children of Iluvatar
+
+Iluvatar chose a specific moment, far into the long history of the world, to be when the Children would appear - not at the beginning, but deep into time's flow, after vast ages of preparation (Deeps of Time). <br><br>
+The Ainur are drawn to Arda. Melkor most of all, but his motive is corrupted. He lies even to himself, pretending he wants to help the Children. He actually envies their gift and wants to make them his servants and wants to be called Lord (**Self deception**).
+<br><br>
+It is said by Eldar that in water there lives yet the echo of the Music of the Ainur more than in any other substance that is on Earth.
+<br><br>
+Each Ainu loves what they pondered most in music:
+* Ulmo - water
+* Manwe - airs and winds
+* Aule - earth
+
+---
+
+*page 9, 10, 11, 12*
+
+### Creation of Arda
+
+The Vision is suddenly taken away. The vision didn't show the end of the world or the dominion of Men (this is why even the Valar don't know the last days).
+<br><br>
+Iluvatar sends the Flame imperishable into the void - the world is no longer vision but reality.
+<br><br>
+Some Ainur stay with Iluvatar, other descend into Arda. Their power is now bounded in the world, until it's complete. They are now called the **Valar**.
+<br><br>
+Nothing that Valar saw in the vision existed yet. The vision was only a foreshadowing. Now the must actually build it.
+<br><br>
+Melkor tries to seize the newly created Arda, Manwe rallies other spirits and resists.
+<br><br>
+Valar take form inspired by the Children of Iluvatar.
+Melkor takes a dark form.
+<br><br>
+The first battle for Arda begins, Eldar know litle of it. Melkor tried to interrupt anything Valar tried to build, Valar's work never trully fulfilled, but Arda still exists at the end.
+
+*Eldalië is a Quenya term that refers to the Elven-folk in general, or just the Eldar, the Elves of the Great Journey.*
+
+*The Noldor are a specific group of Elves: highly skilled, proud, and deeply involved in the major events of the First Age. Famous members include Fëanor and Galadriel. They’re known for their craftsmanship, knowledge, and tragic history.*
+
+---
+
+*page 15, 16, 17, 18, 19, 20, 21*
+
+### Introducing Valar
+
+7 Lords: Manwë, Ulmo, Aulë, Oromë, Mandos, Lórien, Tulkas.
+<br><br>
+7 Queens (Valier): Varda, Yavanna, Nienna, Estë, Vairë, Vána, Nessa.
+
+*Names given in Valinorean Elvish differ in Middle-earth and among Men.*
+
+Melkor excluded - name unspoken on Earth
+
+#### 1. Manwë (Súlimo):
+
+He is the lord of the real of Arda. 
+Understand Iluvatar's purpose most clearly.
+
+Paired with Varda (Elbereth). Melkor fears her most. She rejected Melkor even before the making of the music. Elves hold her the most in reverence.
+
+#### 2. Ulmo
+
+He is a lord of water. Whole ocean is his resting place. His reach is so wide that he gets news which can't reach Manwe. He also brings news to Manwe.
+
+#### 3. Aulë
+
+He is a smith. Noldor learned the most of him. He is similar to Melkor in a sense because he ishes to create, but different because he doesn't disturb Iluvatar's vision and is faithful.
+
+He is paired with Yavanna (Kementári). She is a giver of fruis and lover of everything tha grows.
+She is 2nd important to Elves next to Varda.
+
+#### 4. Námo (Mandos), part of Fëanturi
+
+He lives in a place also called Mandos. He is the
+keeper of the Houses of the Dead, and the summoner of the spirits of the slain. Doomsman of Valar, pronounces judgement only at the bidding of Manwe.
+
+He is paired with Vairë, weaver of all that has been.
+
+#### 5. Irmo (Lórien), part of Fëanturi
+
+He lives in Lórien. He is a master of visions and dreams.
+He is paired with Estë, a healer. She sleeps on Lórellin.
+
+#### 6. Nienna (sister of Fëanturi)
+
+She Mourns Arda and the chaos Melkor is bringing. Turns sorrow into wisdom. Often visits city of Valimar.
+
+**Fëanturi are the masters of spirits**
+
+#### 7. Tulkas (Astaldo)
+
+He is the strongest Valar and fights with his hands. He came last to Arda. He doesn't have a horse and can outrun all creatures.
+
+He is paired with Nessa (sister of Oromë). She is also fast on her feet and deer love her.
+
+#### 8. Oromë (Aldaron, called Tauron by Elves)
+
+He is weaker then Tulkas, but more dreadful in anger. He hunts beasts. His horse is called Nahar. His horn is called Valaróma.
+
+He is paired with Vána. She is ever young, works with spring and birds.
+
+
+**The eight Valar are called Aratar**
+
+---
+
+*page 21, 22*
+
+### Maia
+
+They are the same order as the Valar, but of lesser degree. Like the Valar, they existed before he world began. They are the helpers of Valar. Numberless, even the Elves don't know how many there are. Most are unnamed and rarely appear visibly in Middle-earth.
+
+#### Named Maiar of Valinor
+
+**1. Ilmarë** -	Handmaid of Varda<br>
+**2. Eönwë** - Banner-bearer and herald of Manwë<br>
+**3. Ossë** - Vassal of Ulmo, master of coastal seas<br>
+Melkor tried to seduce Ossë, promising him all of Ulmo's realm. Ossë caused great tumults in the sea that ruined lands. Uinen restrained him (at Aulë's prayer) and brought him to Ulmo. He was pardoned, returned to allegiance - and has stayed faithful for the most part, but he still occasionally rages on his own without orders.\
+**4. Uinen** - Lady of the Seas, Ossë's spouse<br>
+The Númenóreans revered her almost as a Valar \
+**5. Melian** - Served Vána and Estë<br>
+**6. Olórin (Gandalf)** - Wisest of the Maiar<br>
+He is the wisest of all Maiar. Dwelt in Lórien (gardens of dreams). Learned pity and patience from Nienna. Walked among Elves unseen, or disguised as one of them. His gift is to lift despair to those who listen to him.
+
+
+---
+
+*page 23, 24*
+
+### Corrupted Maia
+
+Melkor (Morgoth) corrupted some maia, one of them being **Valaraukar**. They are Barlogs.
+
+His most known servant is **Sauron** (also known as Gorthaur the cruel), who was also Maia. In the beginning he was Maiar of Aule.
+
+---
+
+*page 27*
+
+### More on Tulkas
+
+It's revealed that Tulkas was not initionally included in the formation of Arda, but arrived later when Melkor started waging the first war against Valar. When he arrived Melkor fled.
+
+### Two lamps
+
+Aulë, at the prayer of Yavanna, brought two lamps for lighting middle earth which he had built amid encircling sea. Varda filled he lamps and Manwe lit them. They were set on high pillars. One lamp in the north was called Illuin, and the one in the south was called Ormal.
+
+---
+
+*page 28, 29*
+
+### After the first war
+
+Seeds started growing, beasts started living in grown mosses and grass.
+
+Valar dwelt in Isle of **Almaren** in the Great lake.
+
+At some point Manwe organized a great fest, but Aule and Tulkas were worried to leave their positions because they were fearing Melkor might return.
+
+Melkor had many Maiar servants and was aware that Arda is growing. He saw it himself and was angry. He visited Arda from the north and Valar didn't perceive the shadow in the north that was cast by Melkor.
+After the party Tulkas fell asleep and Melkor took that oppurtunity to settle Arda. He begun to dwele in fortress under the dark mountains. The fortress was called **Utumno**. And his presence there started rotting living things around it.
+
+Valar became aware of Melkor's presence, but Melkor attacked first breaking the lamps which cause fire and damaged the land so the original design of the Valar was never restored.
+
+Manwe and Tulkas tried to catch him, but Melkor escaped to **Utumno**. Valar could not overcome him because their strength was needed to restrain the destruction of the Earth because they need to save it for the Children of Iluvatar.
+
+---
+
+*page 30, 31*
+
+### New dwelling of Valar
+
+After Melkor destroyed Valar's first dwelling on **Almaren**, the **Valar abandon Middle-Earth** and cross to **Aman**, the westernmost continent.
+Aman's west coast faces the **Outer Sea (Ekkaia)** and the **Walls of the Night**. East coast faces the **Great Sea (Belegaer)**. On the east side they raised **Pelori** (the highest mountains in the world) as a fortified wall. Atop the tallest peak, **Taniquetil (Oiolosse / Elerrina / Amon Uilos)** is located. Manwe has a throne there.
+
+Behind the mountains they build **Valinor**, a paradise where nothing fades.
+Their city is **Valmar of many bells**.
+
+### The Two Trees
+
+Before **Valmar's** western gate stands a green mount **Ezellohar (Corollaire)**. Yavanna sings her song of growth, Nienna weeps silently into the soil and two saplings rise. These become the **Two Trees of Valinor**:
+* Telperion (elder, silver)
+* Laurelin (gold)
+
+The trees are the light.
+
+### The Tree Light Cycle
+
+Each tree has a 7 hour cycle: it gradually brightens to full radiance, then dims back to darkness. One tree begins to wake an hour before the other has fully faded. This overlap means there's always a brief period when both trees are glowing softly at once, their silver and gold light blending together. This happens twice a day and is called the **mingling of the lights** - a kind of magical twilight unique to Valinor.
+
+**Telperion** bloomed first in the world's history. That very first hour of silver light was so significant that the Valar didn't even count it as part of normal time, they called it **the Opening Hour**, and used it as the starting point from which all subsequent ages of their rule were measured (**Year zero**). 
+
+### The count of time and the 12 hour day
+
+The 12-hour day
+After that Opening Hour, time proceeds in 12 hour days:
+
+* Hour 1–6: Telperion shines (with Laurelin waking at 
+* hour 5: the first mingling)
+* Hour 6: Telperion stops blooming; Laurelin takes over
+* Hour 6–12: Laurelin shines (with Telperion waking at 
+* Hour 11: the second mingling)
+* Hour 12: Laurelin fades; the day ends
+
+It is foreshadowed that the trees will be destroyed with phrase **"The Darkening of Valinor"**.
+
+The light from the tree's was physical. It dripped as dew (from Telperion) and rain (from Laurein), and Varda collected these liquids in great reservoirs. These pools served Valinor as both water sources and wells of light.
+Light is a precious liquid.

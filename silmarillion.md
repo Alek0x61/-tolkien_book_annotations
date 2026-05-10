@@ -6,7 +6,8 @@
 
 *Eä is the whole universe*<br>
 *Arda is the planet*<br>
-*Outer lands = Middle-earth after the darkening of Middle-earth*
+*Outer lands = Middle-earth after the darkening of Middle-earth*<br>
+*Kelvar was a name used by the Yavanna to refer to that part of her natural realm capable of moving or escaping (animals), as opposed to the olvar which were rooted in place (plant life)*
 
 ---
 
@@ -293,3 +294,52 @@ It is explain that Ainur are not masters to the Children of Iluvatar, but elders
 * To Men (Atani), he gave hearts that seek beyond the world and find no rest within it. They can shape their lives beyond the music, beyond fate itself. They are not bound to Arda since they die, thats how they leave the world. Because of that they are also called "Guests" or "Strangers". **Melkor has corrupted the true meaning of the gift of Men**, death now seems like darkess and fear instead of release. **Men will join in the Second Music of the Ainur** - a future cosmic song after the world's end. Men get to participate in the next creation.
 
 *The immortal Elves don't know what happens to them when the world finally dies. The mortal Men do, they get the next song*
+
+---
+
+*page 37, 38, 39, 40, 41, 42*
+
+### Aulë creating Dwarfs
+
+Aulë couldn't wait for the coming of Children of Iluvatar and he desired to create beings so he can teach them his craft, he ended up creating Dwarves. He made them in secret and at first he only made the Seven Fathers of Dwarves under the mountains in the Middle earth.
+
+Aule taught them their language.
+
+Breakdown of Iluvatar's words to Aule when he discovered that he created Dwarves before the Children of Iluvatar were meant to awaken:
+
+* **"Why hast thou done this? Why dost thou attempt a thing which thou knowest is beyond thy power and thy authority?"** — Aule is overstepping. Only Iluvatar has the authority to create beings with true independent life.
+
+* **"For thou hast from me as a gift thy own being only, and no more"** - Aule himself only exists because Ilúvatar gave him being. He does not possess ability to create beings on his own.
+
+* **"therefore the creatures of thy hand and mind can live only by that being, moving when thou thinkest to move them, and if thy thought be elsewhere, standing idle"** - The consequence: the Dwarves Aule made aren't truly alive. They're more like puppets or extensions of Aule's own mind. They only move when he's actively thinking of them, the moment his attention drifts, they freeze. They have no independent souls.
+
+* **"Is that thy desire?"** - A question: is that really what you wanted? Lifeless puppets dependent on your concentration?
+
+### Aule's willingness to destroy the Dwarves
+
+In the end thats what saves the Dwarves. When Aule lifted his hammer, the Dwarves flinched, that was the evidence that Dwarves had some sort of free will (fear, an act of self preservation against their own maker). Iluvator allowed them to exist and stopped Aule from destroying them. **They live longer then Men**.
+
+Aule made the Dwarves stone hard and stubborn so they can fight Melkor. Aule's character is permanently stamped on his children.
+Iluvatar ordered that Dwarves will no sleep in the darkness under stone, and they should wait for Elves to awaken first. Iluvatar looks at them as adopted children. Iluvatar says that often strife shall arise between Aule's children and Iluvatar's children.
+
+### Dwarf afterlife
+
+Elves believe that Dwarves return to earth and stone from which they were created. 
+But the Dwarves have a different belief: they believe that their creator Aule (they also call him **Mahal**) will gather them in halls of **Mandos** set apart, and that Iluvatar will give them a place among the Children in the end. Then they will serve Aule and aid him in remaking of Arda after the **Last Battle**. They say also that the **Seven Dwarves** will return again in their own kin, whose mansions were at Khazad-dum.
+
+### Yavanna's grievance
+
+Yavanna tells Aule that, because Aule hid the creation of Dwarves from her, they will not love the things she is responsible for. They will live in in the Earth.
+
+Aule tells her that althought Dwarves won't touch her work, the Childern of Iluvatar will alter her work and gets scared. Yavanna asks Manwë the same thing and he confirms it.
+
+Manwë has a vision where he music itself is re-revealed. Iluvatar's hand enters the vision, revealing secret melodies Valar themselves contributed but didn't fully grasp. Iluvatar restrospectively reveals them in response to Yavanna's anxiety.
+
+
+#### The Ents (Guardians of forests)
+
+Iluvatar reveals to them - **Ents (Shepherds of the Trees)**. They will walk among Kelvar and the Olvar and protect them. But there's a limit: "For a time: while the Firstborn are in their power, and while the Secondborn are young". The ents are not eternal guardians, they are a temporary gift. By the Third Age, they are already fading and childless. **Their decline is encoded into their origin**.
+
+#### The Eagles (Guardians of the Sky)
+
+The **Eagles of Manwe** are the guardians of the Sky, similar to how Ents are the guardians of the trees. They will live in the mountains (Aulë’s trees), because only the mountains will be tall enough for the Eagles. The irony is that even though Aulë is teaching the Children to consume Yavanna’s creations on Arda, his own creation will still serve as a refuge for the protectors of Yavanna's creation.

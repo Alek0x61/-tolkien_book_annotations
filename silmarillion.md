@@ -4,10 +4,17 @@
 
 ---
 
-*Eä is the whole universe*<br>
-*Arda is the planet*<br>
-*Outer lands = Middle-earth after the darkening of Middle-earth*<br>
-*Kelvar was a name used by the Yavanna to refer to that part of her natural realm capable of moving or escaping (animals), as opposed to the olvar which were rooted in place (plant life)*
+*Eä is the whole universe*<br><br>
+*Arda is the planet*<br><br>
+*Valinor (Aman) - the land where the Valar live*<br><br>
+*Outer lands = Middle-earth after the darkening of Middle-earth*<br><br>
+*Kelvar was a name used by the Yavanna to refer to that part of her natural realm capable of moving or escaping (animals), as opposed to the olvar which were rooted in place (plant life)*<br><br>
+*Elves are the Firstborn, Men are the Secondborn*<br><br>
+*Manwë can talk to Iluvatar from his throne atop Taniquetil*<br><br>
+*Máhanaxar, also called Rithil-Anamo, was the Ring of Doom, a hall or court where the Valar held their councils*<br><br>
+*Mandos is similar to Hades from Greek mythology. Mandos is a divine being who judges the dead, and his realm of the dead is also called Mandos. Mandos is a physical place located in Valinor*<br><br>
+*The Eldar or Edhil (Sindarin), are those Elves who accepted to leave Cuiviénen and undertake the Great Journey to reach Valinor*<br><br>
+*Calaquendi (Elves of the Light) - the Eldar who actually reached Valinor and saw the light of the Two Trees. They are also called the High Elves. All Calaquendi are Eldar, but not all Eldar are Calaquendi*<br>
 
 ---
 
@@ -343,3 +350,175 @@ Iluvatar reveals to them - **Ents (Shepherds of the Trees)**. They will walk amo
 #### The Eagles (Guardians of the Sky)
 
 The **Eagles of Manwe** are the guardians of the Sky, similar to how Ents are the guardians of the trees. They will live in the mountains (Aulë’s trees), because only the mountains will be tall enough for the Eagles. The irony is that even though Aulë is teaching the Children to consume Yavanna’s creations on Arda, his own creation will still serve as a refuge for the protectors of Yavanna's creation.
+
+---
+
+*page 43*
+
+### State of Middle-earth during Melkor's rule
+
+Like it's said previously, the Middle-earth is under Melkor's darkness - The Lamps are gone, the Trees light only Aman, and Middle-earth lies under stars.
+
+Yavanna walks the dark forests grieving and does the most consequential conservation act in Arda: she puts much of the spring's growth to sleep, not killed, just held in pause, waiting.
+
+While Yavanna preserves, Melkor labors and watches. He has army consisting of:
+
+* The Balrogs - these are not bred creatures. They are Maiar. They are fallen angels, not manufactured monsters. They carry whips of flame.
+
+* Sauron - lieutenant of Melkor. He commands Angband, a fortress to resist any assault from Aman. So even before the Elves wake, Melkor is anticipating war with the West. The fortress is located near the north-western shores of the sea.
+
+---
+
+*page 44, 45*
+
+### The Valar's council
+
+Yavanna's pleads with other Vallar, she doesn't want to leave Middle-earth desolated under Melkor when the Elves awake - "Shall they call Melkor lord while Manwë sits upon Taniquetil?". Tulkas immediately wants war. **Mandos reveals that the Elves are meant to awaken before the Sun and Moon exist**, under starlight alone. Because of this, they develop a special reverence for Varda, who created the starts.
+
+With that knowledge, Varda took **the silver dews from the vats of Telperion** and began making new, brighter stars.
+
+The stars she made include:
+* Carnil and Luinil
+* Nénar and Lumbar
+* Alcarinquë and Elemmírë
+
+The constellations she made include:
+* Helluin
+* Wilwarin
+* Telumendil
+* Soronúmë
+* Anarríma
+* Menelmacar - "forebodes the Last Battle that shall be at the end of days". Menelmacar hanging in the sky is a permanent cosmic reminder that history is moving toward a final reckoning.
+* Valacirca - "the Sickle of the Valar". Varda intentionally places the constellation in the northern sky as an act of defiance, because Melkor's strongholds are in the North of Middle-earth. It's a reminder that Melkor’s rebellion is temporary, and the Valar have not forgotten Middle-earth.
+
+Varda gets two names from this work: **Tintallë (Kindler)** and **Elentári (Queen of the Stars)**. 
+
+**The Elves awaken** at the very moment when Menelmacar rises into the sky and Helluin shines blue above the edge of the world. <br>
+**They awaken beside Cuiviénen (Water of Awakening)**.
+
+The Elves name themselves **Quendi** - "those that speak with voices" - because they have not yet met any other living thing that speaks. <br>
+The first things the Elves experience are starlight and flowing water. <br>
+**Cuiviénen**, where the Elves first awoke, will cease to exist in the future because, over the ages, continents changed, seas moved, and mountains collapsed. The Elves can never return to their place of origin.
+
+---
+
+*page 46*
+
+### Oromë discovers that the Elves have been awakened
+
+Oromë's horse Nahar heard them and halted.
+Oromë named them Eldar (People of the Stars).
+
+The Elves exised for years before Oromë saw them.
+The Elves were cautious of Oromë, because the first Valar they met was Melkor, and throughout those years there were instances of Melkor's hunters and dark riders kidnapping Elves that wondered alone or in small groups.
+Melkor was also spreading lies that Oromë is the danger and was hunting them.
+
+Shadow over Cuivienon
+
+*page 47*
+
+Elves eventually found out that Orome is good.
+By Elves from Eressea it is believed that kidnaped Elves were taken into Melkors fortress Utumno and turned into orcs. 
+
+*This shows that Melkor is not capable of creating anything, he can only corrupt, no matter if its corruption of land mass build by Valar or corruption of life created by Iluvatar*
+
+Orcs loathed Melkor and they served him in fear.
+
+Oromë rode to Valar bearing the news of arrival of the Elves and their troubles, returning back to Elves soon after.
+
+Manwë consulted Iluvatar atop Taniquetil, he then summoned the council of Valar.
+
+### the Battle of the Powers in the Years of the Trees
+
+*page 48, 49*
+
+Valar initiated the war. Melkor was aware that they started the war because of the elves, but the Elves had no part in that war and know very little about it.
+
+The battle happened at the north-west of middle earth, which suffered greatly in the war and much of it was broken. 
+Elves know very little about it, except they noticed the earth quakes and the moving of water.
+**The Valar set guards over Cuiviénen**.
+
+The servants of Melkor fled to Utumno and there Valar began a siege.
+Middle earth changed its shape drastically.
+The gates of Utumno were broken, Melkor took refuge in the uttermost pit. There Tulkas wresteled with him, Melkor was bound with chain called Angainor, that was forged by Aulë, and captured as captive.
+
+The Valar did not discover all hidden vaults of Utumno and Angband.
+**Sauron was nowhere to be found.**
+
+Melkor was brought to the Ring of Doom, laying on his face he begged Manwë for pardon, but his prayer was denied, and he was cast into prison in the fortress of Mandos where none can escape, even Vala.
+
+*page 49*
+
+### Summoning of the Elves to Valinor - the original sin of the Eldar and Valar
+
+After the victory the Valar wanted to summon the Elves to Valinor, Ulmo argued the Elves should remain free in Middle earth, ordering and healing the lands with their gifts. However, the majority agreed that the ELves should be summoned.
+
+**The summoning didn't doom the Elves alltogether, it just rolled the dice and made their doom a possibility. Allowing the Elves to set afoot on Valinor made the Elves feel like they are equal with the Valinor, which they were not in actuallity, and Valinor gave them the divine knowledge to create divine like items like the silmarilis**
+
+**The summons to Valinor was the eating of that fruit from the gardens of Eden. The Elves, taken close to the Valar, became knowers of craft, of lore, of the making of the world. And with knowledge came the shattering realization that they could make things the Powers could not un-make.**
+
+*page 50*
+
+### The first sundering of Elves - Eldar/Avari split
+
+Oromë came to middle earth and ambasadors that should go to Valinor and those were Ingwë, Finwë, and Elwë, later they became kings. Many others refuse the summons, preferring the starlight and the wide spaces of Middle-earth, these are the **Avari** (the unwilling).
+
+*By the tiem of LOTR, the wood elves of Mirkwood carry traces of Avari lineage, they prefer living under the stars and in the woods*
+
+The Elves that went to Valinor were split into three hosts (three tribes):
+
+* Vanyar (Ingwë) — smallest in number, they are the Faur Elves, beloved of Manwë and Varda. They go all the way to Valinor and never come back. Few among Men have ever seen them. They are pure light-Elves - they more or less drop out of history because they never engage with Middle-earth's troubles.
+
+* Noldor (Finwë) — They are friends of Aulë, the same Vala whose impatience created the Dwarves. This is deeply foreshadowing: the Noldor will inherit Aulë's craftsmanship and his temptation to overreach. Fëanor is the inevitable consequence of Noldor-Aulë friendship.
+
+* Teleri (Elwë and Olwë) — the largest in number, the slowest to arrive. Their character is set in their name. They become the Sea-Elves, they fall in love with water and the shore. And they will be the most fractured kindred - most of the splittings ahead happen within the Teleri.
+
+*page 51*
+
+### The second Sundering of the Elves
+
+Some Eldar started the journey to the Valinor but never reached it. They were mostly Teleri. They stopped in middle-earth, stayed near the shores or got seperated along the way. The Calaquendi called them **Úmanyar** (those who did not come to Aman). The Úmanyar and Avari are collectively called **Moriquendi** (Elves of Darkness) because neither group ever saw the Light of the Two Trees.
+
+*page 51, 52, 53*
+
+### The journey of Eldar to Valinor
+
+**Oromë was guiding them to Valinor**. They stop often to explore forests, rivers, and lands. Whenever Oromë leaves them, they often stop moving until he returns.
+
+**They arrive at the greate river that will later be called Auduin**. Beyond it are the Hithaeglir (Misty Mountains), which Melkor raised to make Oromë's journey harder.
+
+The three main groups react differently:
+* Vanyar and Noldor continue west with Oromë.
+* Teleri hesitate and remain on the eastern side.
+
+**The first major division are the Nandor**. They split from Teleri refusing to cross the mountains. They have a leader called **Lenwë** (Olwë). He leads many Teleri south along the Anduin and away from the main journey. These become the Nandor (those who turn back). They become especially connected with nature, forests, rivers, plants, and animals. Much later, Lenwë's son Denethor (not related to Denethor II, the last rulling steward of Gondor before Aragorn took the throne) leads some of them west into Beleriand.
+
+**The Vanyar and Noldor reach Beleriand**. When they see the Great Sea (Belegaer) for the first time, many are afraid and hide in the forests and hills.
+Oromë returns to Valinor to ask for guidance.
+
+**The Teleri finally continue**. Their leader **Elwë Singollo (Thingol)**, being one of the three ambassadors that saw Valinor, encourages them to keep going because he wants to return to Valinor. They cross the Misty Mountains and Eriador. Eventually, they also reach Beleriand and settle east of the River Gelion.
+
+---
+
+*page 54, 55*
+
+### Of Thingol and Melian
+
+Melian was a Maia known for her singing. 
+the Valar stop working, the birds stop singing - just to listen to her song.
+Her power is the song that silences all other song.
+
+**She's less a character than an atmosphere.**
+
+She travelled from Valinor to Middle-earth when the Elves woke up.
+
+**Thigol saw her** in Nan Elmoth while he was on the mission to seek out **Finwë**. He got enchanted by her song and couldn't resist it, like he was under some great power. He forgets all his people and all the purposes of his mind.
+
+**He saw the light of Aman in her face**
+
+
+---
+
+*page 56*
+
+### Of Eldamar and the princes of the Eldalië

@@ -522,3 +522,9 @@ She travelled from Valinor to Middle-earth when the Elves woke up.
 *page 56*
 
 ### Of Eldamar and the princes of the Eldalië
+
+https://www.encyclopedia-of-arda.com/g/grindingice.php
+
+In the north east Beleriand was connected to Aman with grinding ice. Because of that Oromë did not lead the Elves into the far north, but brought them to the fair lands about the River Sirion.
+
+https://www.encyclopedia-of-arda.com/b/bayofbalar.php

@@ -1,6 +1,11 @@
 **ISBN:** 9780261102736 \
 **Published:** 2013
 
+---
+
+Things to remember:
+- Noldor, Vanyar, Teleri. Where did they live in Aman?
+
 
 ---
 
@@ -14,7 +19,9 @@
 *Máhanaxar, also called Rithil-Anamo, was the Ring of Doom, a hall or court where the Valar held their councils*<br><br>
 *Mandos is similar to Hades from Greek mythology. Mandos is a divine being who judges the dead, and his realm of the dead is also called Mandos. Mandos is a physical place located in Valinor*<br><br>
 *The Eldar or Edhil (Sindarin), are those Elves who accepted to leave Cuiviénen and undertake the Great Journey to reach Valinor*<br><br>
-*Calaquendi (Elves of the Light) - the Eldar who actually reached Valinor and saw the light of the Two Trees. They are also called the High Elves. All Calaquendi are Eldar, but not all Eldar are Calaquendi*<br>
+*Calaquendi (Elves of the Light) - the Eldar who actually reached Valinor and saw the light of the Two Trees. They are also called the High Elves. All Calaquendi are Eldar, but not all Eldar are Calaquendi*<br><br>
+*Finwë (Noldor) was king in Tirion, Olwë (Teleri) in Alqualondë and Ingwë (Vanyar) was the High King of all the Elves. He abode thereafter at the feet of Manwë upon Taniquetil*<br><br>
+*Aman contained all the creatures of Arda, except for evil creatures of Melkor*<br>
 
 ---
 
@@ -525,6 +532,106 @@ She travelled from Valinor to Middle-earth when the Elves woke up.
 
 https://www.encyclopedia-of-arda.com/g/grindingice.php
 
-In the north east Beleriand was connected to Aman with grinding ice. Because of that Oromë did not lead the Elves into the far north, but brought them to the fair lands about the River Sirion.
+In the north east Beleriand was connected to Aman with grinding ice. Because of that Oromë did not lead the Elves into the far north, but brought them to the fair lands about the River Sirion, that afterwards were named Beleriand.
+
+Ulmo brought them to Valinor by uprooting an island (*Tol Eressëa*) and dragging it to Valinor with the Elves on it.
+While Ulmo was ferring them, eastern tip of the island broke off and stayed behind and was named *The Isle of Balar* because it was located in *The Bay of Balar*. *Ossë* often visited the island.
 
 https://www.encyclopedia-of-arda.com/b/bayofbalar.php
+
+**The fate of Teleri**
+
+*page 57*
+
+Meanwhile the Teleri were still living in eastern Beleriand searching for their king **Elwë Singollo (Thingol)**. Then they pressed on to the shores of Beleriand and they dwelt there for a long time. At that time **Olwë** became their king.
+
+Later, **Ossë and his spouse Uinen** befriended them and taught them sea-music and sea-lore.
+When many years had passed, **Ulmo** returned to the coasts of Beleriand and brought the great number of Teleri to Valinor.
+
+**Teleri that stayed behind**
+
+- **Falathrim**
+
+    **Ossë** was ill-pleased by **Ulmo** and managed to persuaded some Teleri to remain. Those were **Falathrim**, the Elves of the Falas, who in after days had dwellings at the **Havens of Brithombar** and **Eglarest**, the first marines in Middle-earth and the first makers of ships. **Cirdan the Shipwright** was their lord.
+
+- **Eglath**
+
+The kinsfold and friends of **Elwë** also stayed in the Hinter Lands searching for him. Though they would have departed to Valinor if Ulmo had been willing to wait for them longer. They called themselves **Eglath**, the Forsaken People. They dwelt in the woods of Beleriand which filled them with sorrow. Their desire to go to Aman never disappeared.
+
+
+**Awakening of Elwë**
+
+When Elwë awoke from his trance he came forth from Nan Elmoth with Melian and they dwelt in the woods. 
+**In the face of Melian he beheld the light of Aman as in an unclouded mirror**.
+**Now he looked like a lord of the Maiar. His hair was grey silver, he was tallest of all the Children of Iluvatar**.
+
+**Ossë's theft of Teleri**
+
+Ossë followed Ulmo, and when they reached Bay of Eldamar he called them and they begged Ulmo to stop their voyage. And Ulmo granted their request. Ulmo rooted the island. 
+**The island was called Tol Eressëa, the Lonely Isle**.
+**Finwë grieved when he learned that the Teleri will not come**.
+**Living apart in the Lonely Isle caused the sundering of their speech from that of the Vanyar and the Noldor**.
+
+**Establishment of Elven city of Tirion in Aman**
+*page 59*
+
+Near the eastern coast of Aman the Elves built a city called Tirion on a hill called Tuna.
+**Pelóri** were the enormous mountain range surrounding Valinor and Tirion was located outside of it.
+The Valar made a break in those mountains, and that pass was called **Calacirya**. Túna was located inside this great pass. 
+**The point of the tunnel was to allow the light of Two Trees to reach Tirion and Tol Eressëa**.
+The highest of the towers of that city was **the Tower of Ingwë**, **Mindon Eldaliéva**, whose silver lamp shone far out into the mists of the sea**.
+For the Elves, Yavanna made a tree called **Galathilion** that resembled a smaller Telperion, but it did not generate light.
+This tree was planted in the courts beneath the Mindon.
+It's seeds where later planted elsewhere, one of the places being Tol Eressëa. That trea was named Celeborn. And importantly, the other seedling is **Nimloth, the White Tree of Númenor**.
+
+That eastern coast of Aman where the Elves lived was named **Eldamar (Elvenhome)**.
+
+**The Noldor**
+*page 59, 60, 61*
+
+The **Noldor** were beloved of Aulë. They were exceling in speech which resulted in them naming all things that existed or they imagined. They learned craftsmanship from Aulë.
+They were also masons, especially the house of **Finwë** is known for their masonry. They first discovered earth-gems and made tools for the cutting and shaping of gems, and carved them in many forms. They gave them away freely, they didn't hoard them.
+**Later, the Noldor came back to Middle-earth and brought their craftsmanship knowledge with them**.
+
+**The house of Finwë**
+
+**Finwë** the king of the Noldor, he had sons:
+ - Fëanor, his mother was Míriel Serindë. He was more skilful in craftsmanship then his brothers. 
+ <br>His sons were: 
+   - Maedhros the tall
+   - Maglor the mighty singer
+   - Celegorm the fair - a friend of Oromë
+   - Caranthir the dark
+   - Curufin the crafty - who inherited most of his father's skill of hand
+   - The youngest twin brothers Amrod and Amras.
+
+ - Fingolfin, his mother was Indis (Vanyar). He was the strongest of his brothers. 
+ He had a daughter called **Aredhel the Whie (Ar-Feiniel she was
+called, the White Lady of the Noldor)**. She was younger than her brothers
+ <br>His sons were:
+   - Fingon - **The King of Noldor in the north of the world**
+   - Turgon - **The lord of Gondolin**
+
+ - Finarfin, his mother was Indis (Vanyar). He was the fariest and the most wisest of heart. He was a friend of the sons of **Olwë**, the king of Teleri of Tol Eressëa. He married **Olwë** daughter **Eärwen**, the swan-maiden of Alqualondë.
+ **Galadriel** was his daughter.
+ <br>His sons were:
+   - Finrod the faithful - afterwards named Felagund, lord of Caves
+   - Orodreth
+   - Angrod
+   - Aegnor
+
+### The coming of Teleri to Aman
+
+*page 61, 62*
+
+Their desire to visit Aman won in the end and Ossë was sent to Tol Eressëa to help them migrate. He taught them ship builing and they settled the shores of Eldamar. They were gifted pearls by the Noldor, which they used extensively to decorate things.
+
+### The Vanyar
+*page 62*
+
+They lived on the mountains of Manwë where they the full light of the Trees, which they loved. They forsook the city of Tirion and became sundered from the Noldor.
+
+### Fëanor's and his sons' restlessness
+*page 62*
+
+Fëanor were travelling a lot in Valinor seeking the unknown, he had issues staying in one place. He and his sons mostly visited Aulë, except Celegorm, who was visiing Oromë instead, and that's were Celegorm was taught to be a hunter. 

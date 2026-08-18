@@ -10,6 +10,7 @@ Things to remember:
 ---
 
 *Eä is the whole universe*<br><br>
+*Secret fire was Ilúvatar's mysterious power of creation*<br><br>
 *Arda is the planet*<br><br>
 *Valinor (Aman) - the land where the Valar live*<br><br>
 *Outer lands = Middle-earth after the darkening of Middle-earth*<br><br>
@@ -635,3 +636,27 @@ They lived on the mountains of Manwë where they the full light of the Trees, wh
 *page 62*
 
 Fëanor were travelling a lot in Valinor seeking the unknown, he had issues staying in one place. He and his sons mostly visited Aulë, except Celegorm, who was visiing Oromë instead, and that's were Celegorm was taught to be a hunter. 
+
+### The Elven golden age in Valinor
+*page 63*
+
+**Noontide of the Blessed Realm** is a golden era when all three tribes of Eldar lived together with Valar in peace.
+
+At that time **Rúmil of Tirion**, the loremaster, invented a writing system.
+
+**Fëanor** (Spirit of Fire) was born at that time. His mother, **Míriel**, gave everything she had to create Fëanor and was exhausted and she wanted a release.
+
+### Passing of Fëanor's mother
+*page 64*
+
+**Míriel** then went to **Lórien** (the gardens of dreams), Finwë thought it was temporary and that she would come back to Tirion, but she ended up passing to Mandos there.
+
+### The beginning of the end of the Golden Age
+
+Fëanor married **Nerdanel** whom he had kids with. She tried to restrain him when the fire of his heart grew too hot. She was the only person in Aman whose counsel Fëanor accepted.
+
+Fëanor's father, Finwë, married his second wife, **Indis**, who was Valar. Fëanor grew in resentment after that especially because the children that Indis bore were half Valar and special.
+
+### Melkor's parole
+
+Melkor's parole was granted by Manwë after his sentence was complete. Melkor was jelous of the Elves, especially when he saw the gems they created. He promised them help but was lying and was still evil. Manwë was free from evil and could not comprehend it. Ulmo and Tulkas were not deceived, and so was Fëanor not deceived. Fëanor gave Melkor his second name - **Morgoth**.

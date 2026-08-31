@@ -5,9 +5,12 @@
 
 Things to remember:
 - Noldor, Vanyar, Teleri. Where did they live in Aman?
+- Quenya vs Sindarin
+- Ages of Melkor's captivity
 
 
 ---
+https://tolkiengateway.net/w/images/c/c6/March_of_the_Quendi_Airyyn.jpg
 
 *Eä is the whole universe*<br><br>
 *Secret fire was Ilúvatar's mysterious power of creation*<br><br>
@@ -23,6 +26,24 @@ Things to remember:
 *Calaquendi (Elves of the Light) - the Eldar who actually reached Valinor and saw the light of the Two Trees. They are also called the High Elves. All Calaquendi are Eldar, but not all Eldar are Calaquendi*<br><br>
 *Finwë (Noldor) was king in Tirion, Olwë (Teleri) in Alqualondë and Ingwë (Vanyar) was the High King of all the Elves. He abode thereafter at the feet of Manwë upon Taniquetil*<br><br>
 *Aman contained all the creatures of Arda, except for evil creatures of Melkor*<br>
+
+---
+
+The Elves: Timeline and Sundering
+
+- All Elves awaken at Cuiviénen
+  -> Some refuse to go west -> Avari
+  -> The rest accept the Great Journey -> Eldar
+
+- Then the Eldar divide into three groups:
+  -> Vanyar
+  -> Noldor
+  -> Teleri
+
+- The Teleri then have further divisions during the journey:
+  -> Some remain in Middle-earth → Sindar, the Grey elves (in Beleriand)
+  -> Some turn back earlier → Nandor
+  -> Some continue to Aman → Falmari
 
 ---
 
@@ -251,7 +272,7 @@ Their city is **Valmar of many bells**.
 
 ### The Two Trees
 
-Before **Valmar's** western gate stands a green mount **Ezellohar (Corollaire)**. Yavanna sings her song of growth, Nienna weeps silently into the soil and two saplings rise. These become the **Two Trees of Valinor**:
+Before **Valmar's** western gate stands a green mound **Ezellohar (Corollaire)**. Yavanna sings her song of growth, Nienna weeps silently into the soil and two saplings rise. These become the **Two Trees of Valinor**:
 * Telperion (elder, silver)
 * Laurelin (gold)
 
@@ -559,7 +580,6 @@ When many years had passed, **Ulmo** returned to the coasts of Beleriand and bro
 
 The kinsfold and friends of **Elwë** also stayed in the Hinter Lands searching for him. Though they would have departed to Valinor if Ulmo had been willing to wait for them longer. They called themselves **Eglath**, the Forsaken People. They dwelt in the woods of Beleriand which filled them with sorrow. Their desire to go to Aman never disappeared.
 
-
 **Awakening of Elwë**
 
 When Elwë awoke from his trance he came forth from Nan Elmoth with Melian and they dwelt in the woods. 
@@ -625,12 +645,12 @@ called, the White Lady of the Noldor)**. She was younger than her brothers
 
 *page 61, 62*
 
-Their desire to visit Aman won in the end and Ossë was sent to Tol Eressëa to help them migrate. He taught them ship builing and they settled the shores of Eldamar. They were gifted pearls by the Noldor, which they used extensively to decorate things.
+Their desire to visit Aman won in the end and Ossë was sent to Tol Eressëa to help them migrate. He taught them ship builing and they settled the shores of Eldamar. They were gifted pearls by the Noldor, which they used extensively to decorate things. **There, on the shores of Aman, they built a city called Alqualondë.**
 
 ### The Vanyar
 *page 62*
 
-They lived on the mountains of Manwë where they the full light of the Trees, which they loved. They forsook the city of Tirion and became sundered from the Noldor.
+They first lived in the city of Tirion, which they shared with the Noldor. Later, they sundered from the Noldor and left the city to dwell upon the slopses of Taniquetil near the halls of Manwë.
 
 ### Fëanor's and his sons' restlessness
 *page 62*
@@ -660,3 +680,193 @@ Fëanor's father, Finwë, married his second wife, **Indis**, who was Valar. Fë
 ### Melkor's parole
 
 Melkor's parole was granted by Manwë after his sentence was complete. Melkor was jelous of the Elves, especially when he saw the gems they created. He promised them help but was lying and was still evil. Manwë was free from evil and could not comprehend it. Ulmo and Tulkas were not deceived, and so was Fëanor not deceived. Fëanor gave Melkor his second name - **Morgoth**.
+
+### Silmarils
+
+It's not known why Fëc started working on the Silmarils. It's believed that he wanted to preserve the light of the Trees of Valinor because he foresaw an incoming doom.
+
+They were in the form of three great jewels. The jewels were merely a body, the light inside was their inner fire and life, made from the blended light of the Two Trees. The Silmarils themselves seemed almost like living things.
+
+Varda hallowed the Silmarils, so that no mortal flesh, unclean hands, or anything of evil will could touch them without being scorched and withered. Mandos foretold that the fate of Arda itself was bound up with them.
+
+Fëanor's heart became deeply attached to the Silmarils, which he himself had created.
+
+### Melkor's Manipulation of the Noldor
+
+Melkor lusted after the Silmarils from the moment he saw them, and their radiance became a constant source of desire to him. At the same time, he secretly sought to destroy Fëanor and turn the Valar and Elves against one another.
+
+He began spreading lies among the Noldor, making them believe that the Valar were keeping them in Aman out of jealousy and fear of their growing power. He also told them that the Valar were withholding knowledge of Men because they intended for Men to replace the Elves in Middle-earth. These lies gradually poisoned the peace of Valinor. The Noldor became proud and increasingly desired freedom and lands of their own. 
+
+**Fëanor was affected most strongly**, with his desire for freedom burning fiercely in him. At the same time, Fëanor's relationship with the Silmarils began to change. He grew possessive of them, keeping them locked away and allowing almost no one to see them, forgetting that the light within them was not truly his own. 
+
+Melkor then deepened the conflict between Fëanor and his half-brother Fingolfin by spreading lies that each was plotting against the other. He eventually encouraged the Noldor to begin making weapons, and Fëanor secretly forged swords for himself and his sons. Thus Melkor's lies gradually turned the Noldor against one another, eventually leading Fëanor to openly rebel against the Valar and declare his intention to leave Valinor. 
+**Fëanor** threatened his half-brother Fingolfin in the house of Finwë.
+The Valar then intervened and stopped Fëanor and summoned him to the ring of Doom. There they discovered Melkor's deception. Tulkas left council to capture Melkor in the meantime. Nonetheless Fëanor was still punished by Valar and banished to **Formenos**, which is a stronghold in northern Valinor. At that time Melkor escaped and was hiding in Valinor.
+The Silmarils were placed in a locked chamber of iron in Formenos.
+
+Melkor later came to him pretending to offer friendship and escape from the Valar. However, when Melkor warned that the Silmarils would not be safe anywhere in Valinor, Fëanor finally realized that Melkor wanted them. He rejected him and shut the doors.
+
+After that Melkor left Valinor altogether.
+
+### Darkening of Valinor
+
+**Melkor's escape south**
+
+The Valar assumed he'd flee north to his old strongholds, so Oromë and Tulkas rode that way and the northern fences were doubled. He had already turned back and slipped south unseen, still able to change shape or walk unclad - a power he would soon lose forever.
+
+**Avathar and Ungoliant**
+
+Avathar is the lightless land south of the Bay of Eldamar. Ungoliant lived there in spider form. Her origin is uncertain even to the Eldar. She fled south because the Valar only ever watched the north. She devoured light and spun it out again as webs of gloom, and was starving.
+
+Melkor resumed the form he wore as tyrant of Utumno, a tall dark Lord, and kept it ever after. Ungoliant feared the power of the Valar and wouldn't move, so he promised her whatever her lust demanded once the deed was done.
+
+**Hyarmentir**
+
+Ungoliant wove an Unlight around them both, then climbed rope by rope to the summit of Hyarmentir, the highest mountain in the south, far from Taniquetil. She cast down a woven ladder for Melkor. From the top they looked over Oromë's woods and Yavanna's fields to the domes of Valmar shining under the Trees. Melkor ran down the western slopes with her darkness covering them.
+
+**The festival**
+
+A reminder that the Valar clothe themselves in the forms of children of Iluvatar, and eat and drink as the children do. Manwë intended to heal the quarrel among the Noldor.
+
+**Fëanor and Fingolfin**
+
+Fëanor came only because Manwë commanded it. Finwë refused, holding himself unkinged while his son was banished. Fëanor came without ornament and left the Silmarils locked in iron at Formenos, refusing to show them. He and Fingolfin made peace in word only.
+
+**The killing of the Trees**
+
+At the mingling of the lights, Melkor and Ungoliant crossed the fields and came to Ezellohar. Her Unlight rose to the roots of the Trees, and Melkor pierced each with his black spear. Ungoliant drank the sap from the wounds and poisoned them, and they withered and died. She drank the Wells of Varda dry too, swelling so vast and hideous that Melkor grew afraid of her.
+
+The Darkness was not mere absence of light but a made thing, malice wrought out of Light, able to pierce the eye and strangle the will. Varda watched Valmar drown in night until Taniquetil stood as the last island. Manwë alone could see through it, and made out a Darkness beyond dark moving north — Melkor already gone.
+
+**The Darkness**
+
+Elemmírë of the Vanyar made the lament *Aldudénië* for that day. The Darkness was not mere absence of light but a made thing, malice wrought out of Light, able to pierce the eye and strangle the will. Varda watched Valmar drown in night until Taniquetil stood as the last island. All song stopped; the only sound was the Teleri wailing far off like gulls. By the time the Darkness cleared, Melkor had already escaped. 
+
+**The Trees were dead and Ungoliant's darkness had passed north, leaving Valinor lit only by the stars of Varda**
+
+### Fëanor and the Valar discover the destroyed trees
+
+The Valar gather at the Ring of Doom.
+The light of the Trees now lives only in the Silmarils. Even the mightiest can do some works once and once only - she made that light and can never make it again in Eä.
+
+Manwë asks Fëanor to give them the Silmarils, after long silence Fëanor refuses (Melkor's old lies return to him).
+Meanwhile, while the darkess was moving north, Melkor attacked Formenos. He killed Finwë (the first blood in the Blessed Realm) and stole all jewels, including the Silmarils.
+
+The news from Formenos reaches the Ring of Doom. Fëanor curses Melkor as Morgoth, the black foe of the World. That's the only name the Eldar used for him afterwards. He runs into the night.
+
+### Fate of Ungoliant's and Melkor's relationship
+
+Morgoth and Ungoliant cross the grinding ice into Middle-earth. Ungoliant stayed with him the whole way; he couldn't shake her cloud or her eyes. Near the ruins of Angband she saw his hope of escape and stopped him.
+
+She demands the Formenos treasure. Morgoth yields the gems one by one and she eats them. Their beauty is gone from the world. Then she demands his right hand. The Silmarils are burning him and his fist is clenched in pain, but he refuses.
+
+She webs him to strangle him and he screams, the greatest cry ever heard in the northern world, which is why the land is called Lammoth and why echoes of anguish live there still. Balrogs in the vaults below Angband hear it, come to his aid, and cut her webs apart with their whips.
+
+She flees south into Beleriand and dwells under Ered Gorgoroth in Nan Dungortheb, the Valley of Dreadful Death. She mates with the spider-creatures already there and devours them. Her offspring stay after she goes into the forgotten south. No one knows her fate, though some say she starved so far that she ate herself.
+
+### Morgoth rebuilds Angband
+
+He gathers his surviving servants, delves new vaults, and raises three volcanic mountain peaks of Thangorodrim above the gates, always venting smoke. Orcs, bred long before, multiply underground. He forges an iron crown, sets the Silmarils in it, and names himself King of the World. The jewels burn his hands black for ever and the pain never stops. He never takes the crown off, though wearing it makes him exhausted. He leaves the North in secret only once, and wields a weapon himself only once.
+
+### Fëanor's speech and the Oath
+
+Fëanor appears in the city (still under the ban, so this is open rebellion) and summons the Noldor to the King's court on Túna by torchlight. 
+**He asks why they should serve jealous lords who cannot keep even their own realm safe from an Enemy who is their own kin.**
+**Nearly everything he says is drawn from Morgoth's own lies, including the claim that the Valar hold the Elves captive so Men can inherit Middle-earth.**
+
+Fëanor and his seven sons promise to attack anyone who has a Silmaril and will not give it to them. The oath is against Vala, Demon, Elf, Man not yet born, any creature, big or small, good or evil.
+
+Fingolfin and his son Turgon speak against Fëanor and swords nearly come out again.  Galadriel swears no oath but is eager to go, wanting a realm of her own. Fëanor prevails in the end.
+
+The Valar send no message at first. They will neither forbid nor hinder.
+
+Only a small number of the Noldor refuse the road.
+
+After leaving the gates, Fëanor was informed that he is exiled by his own oath.
+
+### Two hosts leave Tirion
+
+Not all will take Fëanor as King - more love is given to Fingolfin - so the Noldor march as two divided hosts. Fingolfin goes against his own judgement, because Fingon urges him, because he will not be sundered from his people, and because of his promise before Manwë's throne. Finarfin goes for the same reasons, most unwilling of all. Fëanor's people never look back at Tirion. Finarfin's and Finrod's look back until the Mindon is lost in the night, and some carry away things they made.
+
+### Kinslaying
+
+They first went north. After realizing that it was impossible to cross there without ships, they headed to Alqualondë to persuade the Teleri to give them ships. 
+The Teleri will not lend or help build ships against the Valar's will.
+Fëanor seizes the ships by force. Many Teleri were slain.
+
+### The curse of Noldor
+
+On the cold borders of Araman a dark figure stands above the shore, some say Mandos himself, and speaks the Doom of the Noldor.
+Finarfin turns back, because of his kinship with Olwë, and many go with him. They receive the Valar's pardon, and he is set to rule the remnant of the Noldor in Aman. His sons stay with Fëanor.
+
+### Slipping into Middle-earth
+
+Fëanor slipped away secretly with his sons and the ones that fought in Kinslaying. They took all the ships and burned them after crossing into Middle-earth.
+Fingolfin and his group figure out what happened and curse Fëanor. They cross into Middle-earth through the Grinding Ice. Finrod and Galadriel were with him.
+
+
+---
+Going back to age of Melkor's captivity
+---
+
+### More on Thingol and the Sindar
+
+All the Elves of Beleriand, take Elwë as lord. He is called Elu Thingol, King Greymantle. His people are the Sindar, Grey-elves of starlit Beleriand. They are Moriquendi (never saw the Light of the Trees), yet under Thingol's rule and Melian's teaching they become the fairest, wisest and most skilful Elves in Middle-earth.
+
+### The birth of Lúthien
+
+At the end of the first age of Melkor's chaining, when Valinor was at its noon, **Lúthien** is born to Thingol and Melian in the forest of Neldoreth - their only child. Most of Middle-earth lay in the Sleep of Yavanna, but Melian's power kept Beleriand alive. White **niphredil** flowers open to greet her.
+
+### The Dwarves come into Beleriand over the Blue Mountains (Ered Luin)
+(https://www.encyclopedia-of-arda.com/d/dwarfroad.php)
+
+The dwarves call themselves Khazâd. The Sindar call them Naugrim (Stunted People) and Gonnhirrim (Masters of Stone).
+The dwarves had two cities in the Blue Mountains: Nogrod and Belegost. Farther east, beyond Eriador, they also had Khazad-dûm, later known as Moria.
+
+The Dwarves build a great road under Mount Dolmed, along the Ascar, crossing Gelion at Sarn Athrad.
+
+The Elves find Dwarvish harsh and few ever learn it. The Dwarves learn Elvish readily, being unwilling to teach their own tongue to outsiders. Almost no Eldar visit Nogrod or Belegost - only Eöl of Nan Elmoth and his son Maeglin.
+
+In later days the Dwarves favour the Noldor above all others.
+
+### The Dwarves build Menegroth in Doriath
+(https://www.encyclopedia-of-arda.com/m/menegroth.html)
+
+Melian warns that the Peace of Arda will not last, so Thingol seeks a strong dwelling and asks the Dwarves of Belegost. They help gladly. Dwarves always demand payment, but here count themselves paid: Melian teaches them much, and Thingol gives pearls from Círdan. The Dwarves had never seen pearls. One called **Nimphelos** is valued the most by the Dwarves. Melian wanted the fortress to look like it belongs in Valinor.
+
+### Evil stirs again
+
+In the third age of the captivity the Dwarves bring warning: the Valar did not root out all the evils of the North, and the survivors have bred in the dark and are spreading. Thingol's eastern kindred fleeing to the hills. Soon wolves and wolf-shaped things and shadow-creatures come into Beleriand, and among them **Orcs**, still few and cautious, scouting the land while they wait for their lord. The Elves think they may be Avari gone savage.
+
+### Arms and armour
+
+Thingol arms his people for the first time, the Dwarves smithing for him. The Sindar learn smithcraft from them, but in tempering steel the Dwarves are never surpassed even by the Noldor, and mail of linked rings, invented at Belegost, has no rival. The Sindar drive off the evil creatures and regain peace.
+
+### The Nandor come to Beleriand
+(https://www.glyphweb.com/arda/o/ossiriand.php)
+
+Lenwë had left the march of the Teleri at the Great River Anduin. Lenwë's son Denethor gathers what he can of them and leads them over the mountains. Thingol welcomes them as long-lost kin and they settle in Ossiriand, the Land of Seven Rivers.
+
+### The creation of Cirth runes
+
+Daeron, Thingol's chief loremaster, devises the Cirth. The Dwarves value them more highly than the Sindar do and carry them east, where many peoples learn them.
+
+### The beggining of the darkening
+
+Melkor kills the Trees and returns. Morgoth's cry in Lammoth echoes into Beleriand and its people shrink in fear. Ungoliant flees south into Thingol's realm, but Melian's power stops her entering Neldoreth. She settles under the cliffs south of Dorthonion, on the mountain called Ered Gorgoroth, the Mountains of Terror, where light and life are strangled and the waters poisoned. Morgoth rebuilds Angband with three volcanic peaks, called Thangorodrim, above it.
+
+### The First Battle of Beleriand
+(https://www.encyclopedia-of-arda.com/f/firstbattle.php)
+
+Orcs pour out under Morgoth's clouds and attack Thingol. His realm is thinly peopled except around Menegroth and along the Falas, so the Orcs strike down both sides. Thingol and the Dwarves destroy the orcs and few return to Angband.
+
+Denethor is cut off on Amon Ereb and killed with all his nearest kin before Thingol reaches him. Thingol avenges him bitterly, but his people mourn him for ever and never take another king. The survivors return to Ossiriand and never again make open war, they live by wariness and secrecy and are called **the Laiquendi**, the Green-elves, for their leaf-coloured clothing. Many others move north and merge with Thingol's people.
+
+### The Girdle of Melian
+(https://tolkiengateway.net/wiki/Girdle_of_Melian)
+
+Thingol returns to learn the western Orc-host has won and driven Círdan to the sea's edge. He gathers everyone he can reach into Neldoreth and Region, and Melian fences the whole realm with an unseen wall of shadow and bewilderment. None can pass it against her will or Thingol's, unless one comes with power greater than Melian's. The land, once Eglador, is now Doriath, the Land of the Girdle. Outside, Morgoth's servants roam at will except in the walled havens of the Falas.
+
+### The unforeseen news
+
+No word has come out of Aman since the Trees died. Neither Morgoth in his pits nor Melian in Menegroth expects what happens next: Fëanor crosses in the stolen Telerin ships, lands at the Firth of Drengist, and burns them at Losgar.

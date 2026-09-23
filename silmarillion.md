@@ -25,7 +25,8 @@ https://tolkiengateway.net/w/images/c/c6/March_of_the_Quendi_Airyyn.jpg
 *The Eldar or Edhil (Sindarin), are those Elves who accepted to leave Cuiviénen and undertake the Great Journey to reach Valinor*<br><br>
 *Calaquendi (Elves of the Light) - the Eldar who actually reached Valinor and saw the light of the Two Trees. They are also called the High Elves. All Calaquendi are Eldar, but not all Eldar are Calaquendi*<br><br>
 *Finwë (Noldor) was king in Tirion, Olwë (Teleri) in Alqualondë and Ingwë (Vanyar) was the High King of all the Elves. He abode thereafter at the feet of Manwë upon Taniquetil*<br><br>
-*Aman contained all the creatures of Arda, except for evil creatures of Melkor*<br>
+*Aman contained all the creatures of Arda, except for evil creatures of Melkor*<br><br>
+*Ilmen is a part of the atmosphere that surrounded the world of Arda, the region of airs where the stars are*<br>
 
 ---
 
@@ -806,7 +807,7 @@ Fingolfin and his group figure out what happened and curse Fëanor. They cross i
 
 
 ---
-Going back to age of Melkor's captivity
+Returning to the Age of Melkor’s captivity: what happened in Middle-earth in the meantime, leading up to Melkor’s parole and release.
 ---
 
 ### More on Thingol and the Sindar
@@ -870,3 +871,90 @@ Thingol returns to learn the western Orc-host has won and driven Círdan to the 
 ### The unforeseen news
 
 No word has come out of Aman since the Trees died. Neither Morgoth in his pits nor Melian in Menegroth expects what happens next: Fëanor crosses in the stolen Telerin ships, lands at the Firth of Drengist, and burns them at Losgar.
+
+--- 
+Returning to the moment when Melkor escaped, and when the Valar gathered at the Ring of Doom after discovering the destruction of the Two Trees.
+---
+
+### Of the sun and moon and the hiding of Valinor
+
+The Valar sat in silence. They could communicate with each other by passing thoughts between their minds. This was called ósanwë.
+
+Manwë was filled with hope and celebrating Fëanor's departure
+Mandos was more realistic about the moral reality. Fëanor's rebellion against the Valar is morally corrupt and he will face judgement no matter what happens in the middle earth
+
+Yavanna and Nienna were responsible for healing the trees. No matter how much they tried the healing failed. Suprisingly Telperion bore at last one great silver flower and Laurelin bore a single golden fruit. Yavanna took them and the trees died. Valar made vessels for them. They were located in the lower regions of **Ilmen** (lower then the stars) and they traversed the arda.
+
+### On the why Valar didn't fight Melkor for the second time
+
+They didn't fight him because they knew how devastated Middle-earth had been after they fought him for the first time, and they didn't want to leave that devastation for Men when they awakened.
+
+One of the names for Men is **Hildor**.
+
+
+### The Valar's grief after the Darkening
+*page [N]*
+
+The **Valar** weren't idle after Melkor fled, even though Fëanor accused them of it. They held council in silence, through thought alone. They grieved as much for the **marring of Fëanor** as for the death of the Trees, because Fëanor was the mightiest of all the Children of Ilúvatar and could have made wonders for Arda.
+
+When **Manwë** heard Fëanor's answer to his heralds, he wept. But at Fëanor's words that the Noldor would do deeds to live in song forever, Manwë said those songs would be dear-bought but well-bought, and that evil would yet be good to have been. **Mandos** answered that it would still remain evil, and that Fëanor would come to him soon.
+
+### The last flower and fruit of the Trees
+*page [N]*
+
+When the Noldor reached Middle-earth, Manwë asked **Yavanna** and **Nienna** to heal the Trees. Nienna's tears couldn't heal them, but as Yavanna's song faltered, **Telperion** bore one last silver flower and **Laurelin** one last golden fruit. Then the Trees died, and their dead trunks still stand in Valinor as a memorial.
+
+### Making of the Sun and the Moon
+*page [N+1]*
+
+Yavanna gave the flower and the fruit to **Aulë**, Manwë hallowed them, and Aulë made vessels to hold them (told in the **Narsilion**, the Song of the Sun and Moon). **Varda** made them lamps of heaven and set them on courses through **Ilmen**, from West to East and back.
+
+The Valar did this to light Middle-earth and hinder Melkor, remembering the **Avari** and the exiled Noldor, and because Manwë knew **Men** (the **Hildor**, the Aftercomers) would soon awaken. They didn't make war on Melkor this time, fearing that Men, being mortal and weaker, would suffer from it. Instead they sent light and fortified their own land.
+
+The Vanyar named the Moon **Isil** (the Sheen) and the Sun **Anar** (the Fire-golden). The Noldor also called them **Rána** (the Wayward) and **Vása** (the Heart of Fire). The Sun marks the awakening of Men and the waning of the Elves, while the Moon cherishes the Elves' memory.
+
+### Arien and Tilion
+*page [N+1]*
+
+**Arien**, a Maia who tended the golden flowers in the gardens of **Vána**, was chosen to guide the Sun. She was a spirit of fire who didn't fear Laurelin's heat and was never deceived by Melkor. She became a naked flame, too bright even for the Eldar to look at.
+
+**Tilion**, a hunter of **Oromë's** company with a silver bow, loved silver and used to rest in **Lórien** by the pools of **Estë** under Telperion's light. He begged to tend the silver flower, so he steered the Moon. Arien was mightier than him.
+
+### First Moonrise and first Sunrise
+*page [N+2]*
+
+The Moon rose first and is the elder of the new lights, just like Telperion was the elder Tree. Many things sleeping in Yavanna's sleep woke up, and the Elves of Middle-earth were delighted. As the Moon rose, **Fingolfin** blew his silver trumpets and started his march into Middle-earth.
+
+After Tilion crossed the sky seven times, the Sun rose for the first time, like fire on the **Pelóri**. **Morgoth** was dismayed, hid deep in **Angband**, and sent out smoke and clouds to hide his land from the Sun (the **Daystar**).
+
+### Day and night
+*page [N+2]*
+
+Varda wanted both lights always in the sky, never together. But Tilion was wayward, kept changing speed and trying to get close to Arien, and got scorched by her so the Moon darkened.
+
+Because of that, and because **Lórien** and **Estë** complained that sleep and rest were gone and the stars hidden, Varda allowed **night**. The Sun now rested in Valinor on the Outer Sea (so Evening was the brightest and happiest time in Aman), then Ulmo's servants pulled it under the Earth to rise again in the east. When it went under the Earth, Valinor grew dim and the Valar mourned Laurelin most.
+
+### Eclipses and Tilion's wanderings
+*page [N+3]*
+
+The Moon was supposed to go the same way, but only after the Sun set. Tilion still wanders and is drawn to Arien, which is why both are sometimes seen in the sky together, and why his shadow sometimes blocks her light (**eclipse**, darkness in the middle of the day).
+
+The Valar counted days by the Sun from then on until the Change of the World. Tilion rarely rested in Valinor and often wandered alone in the caverns at the roots of Arda.
+
+The light in Valinor stayed brighter than in Middle-earth, but neither the Sun nor the Moon has the light of the Trees. That light now lives only in the **Silmarils**.
+
+### Morgoth against the new lights
+*page [N+3]*
+
+Morgoth hated the new lights. He sent spirits of shadow against **Tilion**, but Tilion won. He feared **Arien** too much to go near her, because by putting his power into his lies and creatures, his own might was spread out and he became more bound to the earth. He hid himself and his servants from her in smoke and clouds.
+
+### The Hiding of Valinor
+*page [N+3]*
+
+After the attack on Tilion, the Valar remembered the ruin of **Almaren** and fortified Valinor. They raised the **Pelóri** to sheer heights on the east, north, and south, with glass-smooth walls and icy peaks, and set a sleepless watch on them.
+
+*page [N+4]*
+
+The only pass left open was the **Calacirya**, because the faithful Eldar needed to breathe the air from the lands of their birth. **Finarfin** still ruled the remaining Noldor in **Tirion**, and the Valar didn't want to cut the Teleri off from their kin. They put towers and sentinels in the Calacirya and an army at its exit on the plains of **Valmar**, so nothing from Middle-earth could pass.
+
+This time is called **Nurtalë Valinóreva** (the Hiding of Valinor). The Valar also set the **Enchanted Isles** like a net in the **Shadowy Seas** before **Tol Eressëa** (the Lonely Isle). Sailors there were overcome with weariness, and anyone who stepped on the isles slept until the Change of the World. So, as Mandos foretold in Araman, Valinor was shut against the Noldor, and no messenger ever reached it except one, the mightiest mariner of song (**Eärendil**).

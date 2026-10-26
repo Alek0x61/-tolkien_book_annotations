@@ -10,6 +10,7 @@ Things to remember:
 
 
 ---
+https://www.silmarillionwritersguild.org/node/7928
 https://tolkiengateway.net/w/images/c/c6/March_of_the_Quendi_Airyyn.jpg
 
 *Eä is the whole universe*<br><br>
@@ -26,7 +27,8 @@ https://tolkiengateway.net/w/images/c/c6/March_of_the_Quendi_Airyyn.jpg
 *Calaquendi (Elves of the Light) - the Eldar who actually reached Valinor and saw the light of the Two Trees. They are also called the High Elves. All Calaquendi are Eldar, but not all Eldar are Calaquendi*<br><br>
 *Finwë (Noldor) was king in Tirion, Olwë (Teleri) in Alqualondë and Ingwë (Vanyar) was the High King of all the Elves. He abode thereafter at the feet of Manwë upon Taniquetil*<br><br>
 *Aman contained all the creatures of Arda, except for evil creatures of Melkor*<br><br>
-*Ilmen is a part of the atmosphere that surrounded the world of Arda, the region of airs where the stars are*<br>
+*Ilmen is a part of the atmosphere (cosmology) that surrounded the world of Arda, the region of airs where the stars are*<br><br>
+*Dor Daedeloth was the northern region of Beleriand associated with Morgoth's dominion. It included Angband, the volcanic peaks of Thangorodrim, the Iron Mountains (Ered Engrin), and a large portion of Ard-galen*<br>
 
 ---
 
@@ -42,9 +44,9 @@ The Elves: Timeline and Sundering
   -> Teleri
 
 - The Teleri then have further divisions during the journey:
-  -> Some remain in Middle-earth → Sindar, the Grey elves (in Beleriand)
-  -> Some turn back earlier → Nandor
-  -> Some continue to Aman → Falmari
+  -> Some reach Beleriand and remain there -> Sindar - the Grey elves (in Beleriand)
+  -> Some never reach Beleriand -> Nandor - Silvan Mirkwood elves. Some Nandor later migrate to Beleriand - Laiquendi (Green elves)
+  -> Some continue to Aman -> Falmari
 
 ---
 
@@ -798,7 +800,9 @@ Fëanor seizes the ships by force. Many Teleri were slain.
 ### The curse of Noldor
 
 On the cold borders of Araman a dark figure stands above the shore, some say Mandos himself, and speaks the Doom of the Noldor.
-Finarfin turns back, because of his kinship with Olwë, and many go with him. They receive the Valar's pardon, and he is set to rule the remnant of the Noldor in Aman. His sons stay with Fëanor.
+**Among the curses: the Oath will betray them, the Silmarils will slip from their grasp, and the House of Fëanor in particular will be called the Dispossessed, forever**
+
+**Finarfin** turns back, because of his kinship with Olwë, and many go with him. They receive the Valar's pardon, and he is set to rule the remnant of the Noldor in Aman. His sons stay with Fëanor.
 
 ### Slipping into Middle-earth
 
@@ -861,7 +865,7 @@ Melkor kills the Trees and returns. Morgoth's cry in Lammoth echoes into Beleria
 
 Orcs pour out under Morgoth's clouds and attack Thingol. His realm is thinly peopled except around Menegroth and along the Falas, so the Orcs strike down both sides. Thingol and the Dwarves destroy the orcs and few return to Angband.
 
-Denethor is cut off on Amon Ereb and killed with all his nearest kin before Thingol reaches him. Thingol avenges him bitterly, but his people mourn him for ever and never take another king. The survivors return to Ossiriand and never again make open war, they live by wariness and secrecy and are called **the Laiquendi**, the Green-elves, for their leaf-coloured clothing. Many others move north and merge with Thingol's people.
+**Denethor** is cut off on Amon Ereb and killed with all his nearest kin before Thingol reaches him. Thingol avenges him bitterly, but his people mourn him for ever and never take another king. The survivors return to Ossiriand and never again make open war, they live by wariness and secrecy and are called **the Laiquendi**, the Green-elves, for their leaf-coloured clothing. Many others move north and merge with Thingol's people.
 
 ### The Girdle of Melian
 (https://tolkiengateway.net/wiki/Girdle_of_Melian)
@@ -869,6 +873,7 @@ Denethor is cut off on Amon Ereb and killed with all his nearest kin before Thin
 Thingol returns to learn the western Orc-host has won and driven Círdan to the sea's edge. He gathers everyone he can reach into Neldoreth and Region, and Melian fences the whole realm with an unseen wall of shadow and bewilderment. None can pass it against her will or Thingol's, unless one comes with power greater than Melian's. The land, once Eglador, is now Doriath, the Land of the Girdle. Outside, Morgoth's servants roam at will except in the walled havens of the Falas.
 
 ### The unforeseen news
+*page 107*
 
 No word has come out of Aman since the Trees died. Neither Morgoth in his pits nor Melian in Menegroth expects what happens next: Fëanor crosses in the stolen Telerin ships, lands at the Firth of Drengist, and burns them at Losgar.
 
@@ -876,7 +881,8 @@ No word has come out of Aman since the Trees died. Neither Morgoth in his pits n
 Returning to the moment when Melkor escaped, and when the Valar gathered at the Ring of Doom after discovering the destruction of the Two Trees.
 ---
 
-### Of the sun and moon and the hiding of Valinor
+### Creation of the sun and moon
+*page 108*
 
 The Valar sat in silence. They could communicate with each other by passing thoughts between their minds. This was called ósanwë.
 
@@ -886,75 +892,208 @@ Mandos was more realistic about the moral reality. Fëanor's rebellion against t
 Yavanna and Nienna were responsible for healing the trees. No matter how much they tried the healing failed. Suprisingly Telperion bore at last one great silver flower and Laurelin bore a single golden fruit. Yavanna took them and the trees died. Valar made vessels for them. They were located in the lower regions of **Ilmen** (lower then the stars) and they traversed the arda.
 
 ### On the why Valar didn't fight Melkor for the second time
+*page 109*
 
 They didn't fight him because they knew how devastated Middle-earth had been after they fought him for the first time, and they didn't want to leave that devastation for Men when they awakened.
 
 One of the names for Men is **Hildor**.
 
-
-### The Valar's grief after the Darkening
-*page [N]*
-
-The **Valar** weren't idle after Melkor fled, even though Fëanor accused them of it. They held council in silence, through thought alone. They grieved as much for the **marring of Fëanor** as for the death of the Trees, because Fëanor was the mightiest of all the Children of Ilúvatar and could have made wonders for Arda.
-
-When **Manwë** heard Fëanor's answer to his heralds, he wept. But at Fëanor's words that the Noldor would do deeds to live in song forever, Manwë said those songs would be dear-bought but well-bought, and that evil would yet be good to have been. **Mandos** answered that it would still remain evil, and that Fëanor would come to him soon.
-
-### The last flower and fruit of the Trees
-*page [N]*
-
-When the Noldor reached Middle-earth, Manwë asked **Yavanna** and **Nienna** to heal the Trees. Nienna's tears couldn't heal them, but as Yavanna's song faltered, **Telperion** bore one last silver flower and **Laurelin** one last golden fruit. Then the Trees died, and their dead trunks still stand in Valinor as a memorial.
-
-### Making of the Sun and the Moon
-*page [N+1]*
-
-Yavanna gave the flower and the fruit to **Aulë**, Manwë hallowed them, and Aulë made vessels to hold them (told in the **Narsilion**, the Song of the Sun and Moon). **Varda** made them lamps of heaven and set them on courses through **Ilmen**, from West to East and back.
-
-The Valar did this to light Middle-earth and hinder Melkor, remembering the **Avari** and the exiled Noldor, and because Manwë knew **Men** (the **Hildor**, the Aftercomers) would soon awaken. They didn't make war on Melkor this time, fearing that Men, being mortal and weaker, would suffer from it. Instead they sent light and fortified their own land.
+### More of the sun and moon
 
 The Vanyar named the Moon **Isil** (the Sheen) and the Sun **Anar** (the Fire-golden). The Noldor also called them **Rána** (the Wayward) and **Vása** (the Heart of Fire). The Sun marks the awakening of Men and the waning of the Elves, while the Moon cherishes the Elves' memory.
 
 ### Arien and Tilion
-*page [N+1]*
 
 **Arien**, a Maia who tended the golden flowers in the gardens of **Vána**, was chosen to guide the Sun. She was a spirit of fire who didn't fear Laurelin's heat and was never deceived by Melkor. She became a naked flame, too bright even for the Eldar to look at.
 
 **Tilion**, a hunter of **Oromë's** company with a silver bow, loved silver and used to rest in **Lórien** by the pools of **Estë** under Telperion's light. He begged to tend the silver flower, so he steered the Moon. Arien was mightier than him.
 
 ### First Moonrise and first Sunrise
-*page [N+2]*
 
 The Moon rose first and is the elder of the new lights, just like Telperion was the elder Tree. Many things sleeping in Yavanna's sleep woke up, and the Elves of Middle-earth were delighted. As the Moon rose, **Fingolfin** blew his silver trumpets and started his march into Middle-earth.
 
 After Tilion crossed the sky seven times, the Sun rose for the first time, like fire on the **Pelóri**. **Morgoth** was dismayed, hid deep in **Angband**, and sent out smoke and clouds to hide his land from the Sun (the **Daystar**).
 
 ### Day and night
-*page [N+2]*
 
 Varda wanted both lights always in the sky, never together. But Tilion was wayward, kept changing speed and trying to get close to Arien, and got scorched by her so the Moon darkened.
 
 Because of that, and because **Lórien** and **Estë** complained that sleep and rest were gone and the stars hidden, Varda allowed **night**. The Sun now rested in Valinor on the Outer Sea (so Evening was the brightest and happiest time in Aman), then Ulmo's servants pulled it under the Earth to rise again in the east. When it went under the Earth, Valinor grew dim and the Valar mourned Laurelin most.
 
 ### Eclipses and Tilion's wanderings
-*page [N+3]*
 
 The Moon was supposed to go the same way, but only after the Sun set. Tilion still wanders and is drawn to Arien, which is why both are sometimes seen in the sky together, and why his shadow sometimes blocks her light (**eclipse**, darkness in the middle of the day).
 
-The Valar counted days by the Sun from then on until the Change of the World. Tilion rarely rested in Valinor and often wandered alone in the caverns at the roots of Arda.
-
-The light in Valinor stayed brighter than in Middle-earth, but neither the Sun nor the Moon has the light of the Trees. That light now lives only in the **Silmarils**.
-
 ### Morgoth against the new lights
-*page [N+3]*
 
 Morgoth hated the new lights. He sent spirits of shadow against **Tilion**, but Tilion won. He feared **Arien** too much to go near her, because by putting his power into his lies and creatures, his own might was spread out and he became more bound to the earth. He hid himself and his servants from her in smoke and clouds.
 
 ### The Hiding of Valinor
-*page [N+3]*
 
-After the attack on Tilion, the Valar remembered the ruin of **Almaren** and fortified Valinor. They raised the **Pelóri** to sheer heights on the east, north, and south, with glass-smooth walls and icy peaks, and set a sleepless watch on them.
-
-*page [N+4]*
+After the attack on Tilion, the Valar remembered the ruin of **Almaren** and fortified Valinor. They raised the **Pelóri** to sheer heights on the east, north, and south, and set a sleepless watch on them.
 
 The only pass left open was the **Calacirya**, because the faithful Eldar needed to breathe the air from the lands of their birth. **Finarfin** still ruled the remaining Noldor in **Tirion**, and the Valar didn't want to cut the Teleri off from their kin. They put towers and sentinels in the Calacirya and an army at its exit on the plains of **Valmar**, so nothing from Middle-earth could pass.
 
 This time is called **Nurtalë Valinóreva** (the Hiding of Valinor). The Valar also set the **Enchanted Isles** like a net in the **Shadowy Seas** before **Tol Eressëa** (the Lonely Isle). Sailors there were overcome with weariness, and anyone who stepped on the isles slept until the Change of the World. So, as Mandos foretold in Araman, Valinor was shut against the Noldor, and no messenger ever reached it except one, the mightiest mariner of song (**Eärendil**).
+
+### Of Men
+
+they awoke in hildoren in the east of middle earth. The first rising sun they saw arose in the west and because of that their travels were towards west. They were given many names by the Eldar - Atani, Hildor as one of the examples.
+
+Atanatári - fathers of the men who wandered north
+
+Ulmo tried to communicate with them, sending them messages by stream or flood, but Men did not understand them.
+
+In the beggining they met the Dark Elves. Those are Elves that never went to Valinor, althought they have heard stories of it. Those are Avari elves.
+
+Noldor, Sindar and Men fought Morgoth Bauglir in the North
+
+Noldor surpassed all Elves in their knowledge. Only Sindar of Doriath came close to stature of Noldor.
+
+### Of the Return of the Noldor
+
+Fëanor and sons land at Lammoth (Firth of Drengist) and burn ships at Losgar.
+Fingolfin (abandoned in Araman) sees the fire, so do Morgoth’s spies.
+Fëanor’s host goes to Hithlum then camps at Lake Mithrim
+
+### Morgoth’s Orcs attack Mithrim - Dagor-nuin-Giliath (Battle-under-Stars, 2nd battle):
+![Battle-under-Stars](Battle-under-Stars.png)
+(1) 	Orcs of Morgoth launch a surprise attack on the Noldor encamped on the shores of Lake Mithrim. A great battle is fought in Mithrim, in which the Elves are victorious.<br>
+(2) 	The Orcs flee across the mountains, with the Noldor in pursuit.<br>
+(3) 	A second army of Orcs comes up from the south to join those fleeing the battle.<br>
+(4) 	Celegorm son of Fëanor drives the enemy force into the Fen of Serech and destroys it.<br>
+(5) 	Fëanor himself pursues fleeing Orcs into the North, where he is met by a force of Balrogs and mortally wounded.
+
+<img src="doorsofangband.png" alt="Description" width="400"><br>
+Fëanor charges towards Angband, outrunning his army. Balrogs come out. Gothmog  (Lord of Balrogs) strikes him down. His sons arrive and drive the Balrogs off.
+
+<img src="eithelsirion.png" alt="Description" width="400">
+Wounded Fëanor dies near Eithel Sirion. He sees Thangorodrim and knows the Noldor can't take it. He curses Morgoth 3 times, binds sons to the oath. His body burns to ash and was borne away like smoke.
+
+### Noldor meeting Sindar 
+
+Returning to Mithrim Noldor met Sindar (Grey elves). 
+At first Sindar thought that Noldor were emissaries of Valar.
+They had hard time communicating because they languages have drifted apart. 
+Noldor learn of Thingol and Melian's gridle around Doriath.
+
+### Maedhros captured
+
+Morgoth offers fake peace treaty. He even offered them Silmaril. Noldor accept the offer to meet. 
+Maedhros is attacked and taken as hostage for ransom. 
+Ransom terms are that Noldor leave Beleriand. Sons refuse the ransom terms.
+Maedhros chained by right wrist to a cliff on Thangorodrim
+
+### Fingolfin arrives in Beleriand
+
+Fingolfin's host crosses the Grinding Ice.
+The first Sunrise appears as he enters Mithrim. He hands to Angband's gates, blows trumpets, and the Orcs flee. 
+Fingolfin withdrew from Angband to the North shores of Mithrim lake. Faenorians move to south shore of Mithrim.
+
+Morgoth sees the split and sends smoke & fumes over Hithlum.
+
+**Fingon (son of Fingolfin)** goes alone to Thangorodrim to rescue Maedhros. He finds him. Maedhros begs to be shot. Fingon prays to Manwë. Thorondor (King of Eagles, sent by Manwë to watch Morgoth) carries Fingon up.
+Fingon couldn't break the chain and resorts to cutting off Maedhros' right hand.
+
+### Reconciliation between Fingolfin line and Fëanor line
+
+Maedhros apologizes for abandoning Fingolfin, gives up claim to kingship and Fingolfin becomes the High King.
+Not all Maedhros' brothers agree.
+Mandos' curse comes true. Feanor's house lost Silmarils and become the Dispossessed (They lose the crown on both sides of the sea).
+
+With Noldor finally united Dor Daedeloth was surrounded from west, south and east by the Noldor border watch.
+
+Noldor sent forth messengers far and wide to explore the countries of Beleriand.*
+
+### Noldor interaction with Thingol
+
+Thingol was wary of Noldor and kept Doriath closed.
+Only Finarfin's house was allowed in.
+Angrod (son of Finarfin) visits Menegroth. He keeps quited about Kinslaying and Oath.
+Thingol's terms: Noldor may live in Hithlum, Dorthonion, empty lands east of Doriath.
+The rest of Beleriand is where Sindar and Green-elves still live. He doesn't want Noldor in their lands.
+In Doriath they can only come by invitation.
+He says he is the Lord of Beleriand.
+
+Angrod returns to Mithrim, and the lords of Noldor hold a council.
+Maedhros mocks Thingol (Thingol only gives what he can't hold)
+Caranthir (Maedhros' brother, son of Fëanor insults Finarfin's sons and calls Thingol a Dark Elf).
+Angrod storms out of the council.
+Maedhros rebuked Caranthir.
+
+### Maedhros moves his brothers east
+
+Maedhros then restrained his brothers and moves away from Mithrim. 
+They go to Hill of Himring and name that region **March of Maedhros**.
+Maedhros' plan was to avoid strife and take the most exposed front himself. He wanted to stay friendly with the rest of the Noldor.
+
+**Caranthir dwelt further east** near the Blue mountains. That's where they met the Dwarves (Naugrim).
+They don't like eachother, but they decided to ally because they share the same enemy - Morgoth.
+They learn a lot from each other.
+Trade flows through Caranthir's region and it becomes rich.
+
+
+### Feast of Reuniting (Mereth Aderthad)
+
+Twenty years of the sun have passed.
+Fingolfin hosts the feat of reuniting at **Pools of Ivrin**.
+Attended by: Fingolfin and Finrod's people, Maedhros and Maglor, Sindar, Círdan the Sindar from the Gray havens, Green-elves of Ossiriand. Doriath (Thingol) sends only 2 envoys (Mablung, Daeron).
+Alliances are sworn.
+Noldor adopt Sindarin language (ingua franca).<br>
+<img src="poolsofivrin.png" alt="Description" width="400">
+
+### Hidden strongholds
+
+Thirty year after, Turgon (son of Fingolfin) left Nevrast, went to the island of Tol Sirion where he found Finrod (son of Finarfin).
+<img src="tolsirion.png" alt="Description" width="400">
+
+They travelled beyond the Meres of Twilight, where they slept. 
+<img src="meresoftwilight.png" alt="Description" width="400">
+
+Both keep their dream secret.
+Finrod visits Menegroth in Doriath with Galadriel.
+Finrod is impressed and inspired by the city.
+Finrod tells Thingol about the dream and Thingol points him to the Caverns of Narog.
+Finrod build **Nargothrond** with Dwarf help. They name him **Felagund (Hewer of Caves)**.
+They forge him a necklace called **Nauglamír**.
+
+Galadriel stays in Doriath (loves Celeborn), learns from Melian.
+
+Ulmo guides Turgon to hidden vale of Tumladen.
+Turgon returns to Nevrast plans a city like Tirion (future Gondolin).
+
+<img src="beleriand_elf_lands.jpg" alt="Description" width="400">
+
+### Dagor Aglareb (Glorious Battle, 3rd battle)
+
+Morgoth tests enemies: eruptions, Orcs flood Ard-galen, through Sirion pass and Maglor’s Gap (both sides of Dorthonion).
+
+Fingolfin and Maedhros defeat the main host. They pursue them up to Angband's gates.
+
+**Siege of Angband** starts, which lasted around 400 years.
+
+Angband was surrounded on all sides except the North due to Iron Mountains. All that time the Orcs were not able to go west, south and east.
+
+Morgoth's spies get out north. They capture elves, bring them to Angband, and scare them into becoming spies.
+He learns of Noldor divisions.
+
+### Morgoth's attempt at capturing Fingolfin during the siege
+
+When nearly one hundred years had passed since the **Dagor Aglareb**, Morgoth sent a host of Orcs north, and they tried to invade Hithlum from the west. **Fingon** noticed them and defeated them.
+
+Morgoth perceived now that the Orcs unaided were no match for
+the Noldor.
+
+### Glaurung attacks the Noldor
+
+Glaurung, the first of the Urulóki (the fire-drakes), comes out of Angband at night (still young, only half-grown).
+Elves flee to Ered Wethrin and Dorthonion; he poisons/scorches Ard-galen.
+Fingon rides out with mounted archers, surrounds him with a ring of riders.
+His armour isn’t fully hardened yet, he can’t stand the arrows, he flees back to Angband.
+Fingon praised again (2nd big deed after rescuing Maedhros).
+Morgoth annoyed: Glaurung revealed himself too early (he wanted him as a surprise weapon later).
+
+### The Long Peace (~200 yrs)
+
+Beleriand prospers and grows rich.
+Noldor and Sindar in many places they merge into one people.

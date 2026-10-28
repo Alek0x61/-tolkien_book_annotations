@@ -7,11 +7,18 @@ Things to remember:
 - Noldor, Vanyar, Teleri. Where did they live in Aman?
 - Quenya vs Sindarin
 - Ages of Melkor's captivity
+- Story of Thingol and Melian
 
 
 ---
-https://www.silmarillionwritersguild.org/node/7928
+
+Useful info:<br>
+**A Collection of Maps Exhibiting the Changing Political Landscape in Beleriand**:
+https://www.silmarillionwritersguild.org/node/7928<br><br>
+**March of the Noldor**:
 https://tolkiengateway.net/w/images/c/c6/March_of_the_Quendi_Airyyn.jpg
+
+---
 
 *Eä is the whole universe*<br><br>
 *Secret fire was Ilúvatar's mysterious power of creation*<br><br>
@@ -131,7 +138,7 @@ The first battle for Arda begins, Eldar know litle of it. Melkor tried to interr
 
 *Eldalië is a Quenya term that refers to the Elven-folk in general, or just the Eldar, the Elves of the Great Journey.*
 
-*The Noldor are a specific group of Elves: highly skilled, proud, and deeply involved in the major events of the First Age. Famous members include Fëanor and Galadriel. They’re known for their craftsmanship, knowledge, and tragic history.*
+*The Noldor are a specific group of Elves: highly skilled, proud, and deeply involved in the major events of the First Age. Famous members include Fëanor and Galadriel. They're known for their craftsmanship, knowledge, and tragic history.*
 
 ---
 
@@ -381,7 +388,7 @@ Iluvatar reveals to them - **Ents (Shepherds of the Trees)**. They will walk amo
 
 #### The Eagles (Guardians of the Sky)
 
-The **Eagles of Manwe** are the guardians of the Sky, similar to how Ents are the guardians of the trees. They will live in the mountains (Aulë’s trees), because only the mountains will be tall enough for the Eagles. The irony is that even though Aulë is teaching the Children to consume Yavanna’s creations on Arda, his own creation will still serve as a refuge for the protectors of Yavanna's creation.
+The **Eagles of Manwe** are the guardians of the Sky, similar to how Ents are the guardians of the trees. They will live in the mountains (Aulë's trees), because only the mountains will be tall enough for the Eagles. The irony is that even though Aulë is teaching the Children to consume Yavanna's creations on Arda, his own creation will still serve as a refuge for the protectors of Yavanna's creation.
 
 ---
 
@@ -421,7 +428,7 @@ The constellations she made include:
 * Soronúmë
 * Anarríma
 * Menelmacar - "forebodes the Last Battle that shall be at the end of days". Menelmacar hanging in the sky is a permanent cosmic reminder that history is moving toward a final reckoning.
-* Valacirca - "the Sickle of the Valar". Varda intentionally places the constellation in the northern sky as an act of defiance, because Melkor's strongholds are in the North of Middle-earth. It's a reminder that Melkor’s rebellion is temporary, and the Valar have not forgotten Middle-earth.
+* Valacirca - "the Sickle of the Valar". Varda intentionally places the constellation in the northern sky as an act of defiance, because Melkor's strongholds are in the North of Middle-earth. It's a reminder that Melkor's rebellion is temporary, and the Valar have not forgotten Middle-earth.
 
 Varda gets two names from this work: **Tintallë (Kindler)** and **Elentári (Queen of the Stars)**. 
 
@@ -795,7 +802,8 @@ Not all will take Fëanor as King - more love is given to Fingolfin - so the Nol
 
 They first went north. After realizing that it was impossible to cross there without ships, they headed to Alqualondë to persuade the Teleri to give them ships. 
 The Teleri will not lend or help build ships against the Valar's will.
-Fëanor seizes the ships by force. Many Teleri were slain.
+Fëanor seizes the ships by force. Many Teleri were slain.<br>
+**Finarfin's host** arrived too late to take part in the battle.
 
 ### The curse of Noldor
 
@@ -811,7 +819,7 @@ Fingolfin and his group figure out what happened and curse Fëanor. They cross i
 
 
 ---
-Returning to the Age of Melkor’s captivity: what happened in Middle-earth in the meantime, leading up to Melkor’s parole and release.
+Returning to the Age of Melkor's captivity: what happened in Middle-earth in the meantime, leading up to Melkor's parole and release.
 ---
 
 ### More on Thingol and the Sindar
@@ -953,21 +961,24 @@ Noldor surpassed all Elves in their knowledge. Only Sindar of Doriath came close
 ### Of the Return of the Noldor
 
 Fëanor and sons land at Lammoth (Firth of Drengist) and burn ships at Losgar.
-Fingolfin (abandoned in Araman) sees the fire, so do Morgoth’s spies.
-Fëanor’s host goes to Hithlum then camps at Lake Mithrim
+Fingolfin (abandoned in Araman) sees the fire, so do Morgoth's spies.
+Fëanor's host goes to Hithlum then camps at Lake Mithrim
 
-### Morgoth’s Orcs attack Mithrim - Dagor-nuin-Giliath (Battle-under-Stars, 2nd battle):
+### Morgoth's Orcs attack Mithrim - Dagor-nuin-Giliath (Battle-under-Stars, 2nd battle):
 ![Battle-under-Stars](Battle-under-Stars.png)
+
 (1) 	Orcs of Morgoth launch a surprise attack on the Noldor encamped on the shores of Lake Mithrim. A great battle is fought in Mithrim, in which the Elves are victorious.<br>
 (2) 	The Orcs flee across the mountains, with the Noldor in pursuit.<br>
 (3) 	A second army of Orcs comes up from the south to join those fleeing the battle.<br>
 (4) 	Celegorm son of Fëanor drives the enemy force into the Fen of Serech and destroys it.<br>
 (5) 	Fëanor himself pursues fleeing Orcs into the North, where he is met by a force of Balrogs and mortally wounded.
 
-<img src="doorsofangband.png" alt="Description" width="400"><br>
+<img src="doorsofangband.png" width="400"><br>
+
 Fëanor charges towards Angband, outrunning his army. Balrogs come out. Gothmog  (Lord of Balrogs) strikes him down. His sons arrive and drive the Balrogs off.
 
-<img src="eithelsirion.png" alt="Description" width="400">
+<img src="eithelsirion.png" width="400">
+
 Wounded Fëanor dies near Eithel Sirion. He sees Thangorodrim and knows the Noldor can't take it. He curses Morgoth 3 times, binds sons to the oath. His body burns to ash and was borne away like smoke.
 
 ### Noldor meeting Sindar 
@@ -999,7 +1010,7 @@ Fingon couldn't break the chain and resorts to cutting off Maedhros' right hand.
 
 Maedhros apologizes for abandoning Fingolfin, gives up claim to kingship and Fingolfin becomes the High King.
 Not all Maedhros' brothers agree.
-Mandos' curse comes true. Feanor's house lost Silmarils and become the Dispossessed (They lose the crown on both sides of the sea).
+Mandos' curse comes true. Fëanor's house lost Silmarils and become the Dispossessed (They lose the crown on both sides of the sea).
 
 With Noldor finally united Dor Daedeloth was surrounded from west, south and east by the Noldor border watch.
 
@@ -1040,15 +1051,18 @@ Fingolfin hosts the feat of reuniting at **Pools of Ivrin**.
 Attended by: Fingolfin and Finrod's people, Maedhros and Maglor, Sindar, Círdan the Sindar from the Gray havens, Green-elves of Ossiriand. Doriath (Thingol) sends only 2 envoys (Mablung, Daeron).
 Alliances are sworn.
 Noldor adopt Sindarin language (ingua franca).<br>
-<img src="poolsofivrin.png" alt="Description" width="400">
+
+<img src="poolsofivrin.png" width="400">
 
 ### Hidden strongholds
 
 Thirty year after, Turgon (son of Fingolfin) left Nevrast, went to the island of Tol Sirion where he found Finrod (son of Finarfin).
-<img src="tolsirion.png" alt="Description" width="400">
+
+<img src="tolsirion.png" width="400">
 
 They travelled beyond the Meres of Twilight, where they slept. 
-<img src="meresoftwilight.png" alt="Description" width="400">
+
+<img src="meresoftwilight.png" width="400">
 
 Both keep their dream secret.
 Finrod visits Menegroth in Doriath with Galadriel.
@@ -1062,11 +1076,9 @@ Galadriel stays in Doriath (loves Celeborn), learns from Melian.
 Ulmo guides Turgon to hidden vale of Tumladen.
 Turgon returns to Nevrast plans a city like Tirion (future Gondolin).
 
-<img src="beleriand_elf_lands.jpg" alt="Description" width="400">
-
 ### Dagor Aglareb (Glorious Battle, 3rd battle)
 
-Morgoth tests enemies: eruptions, Orcs flood Ard-galen, through Sirion pass and Maglor’s Gap (both sides of Dorthonion).
+Morgoth tests enemies: eruptions, Orcs flood Ard-galen, through Sirion pass and Maglor's Gap (both sides of Dorthonion).
 
 Fingolfin and Maedhros defeat the main host. They pursue them up to Angband's gates.
 
@@ -1089,7 +1101,7 @@ the Noldor.
 Glaurung, the first of the Urulóki (the fire-drakes), comes out of Angband at night (still young, only half-grown).
 Elves flee to Ered Wethrin and Dorthonion; he poisons/scorches Ard-galen.
 Fingon rides out with mounted archers, surrounds him with a ring of riders.
-His armour isn’t fully hardened yet, he can’t stand the arrows, he flees back to Angband.
+His armour isn't fully hardened yet, he can't stand the arrows, he flees back to Angband.
 Fingon praised again (2nd big deed after rescuing Maedhros).
 Morgoth annoyed: Glaurung revealed himself too early (he wanted him as a surprise weapon later).
 
@@ -1097,3 +1109,197 @@ Morgoth annoyed: Glaurung revealed himself too early (he wanted him as a surpris
 
 Beleriand prospers and grows rich.
 Noldor and Sindar in many places they merge into one people.
+
+### Of Beleriand and its realms
+
+Fingolfin controller Mithrim.<br><br>
+Fingon controlled Dor-lómin.<br><br>
+Their chief fortress was at Eithel Sirion.
+Turgon rules Nevrast. Many Sindar lived in Nevrast too.<br><br>
+Angrod and Aegnor controlled Dorthonion. They were the vassals of their brother Finrod, lord of Nargothrond.
+Finrod held the Pass of Sirion too.
+Upon the isle of Tol Sirion he built a mighty watch-tower, Minas Tirith. But after Nargothrond was made he committed that fortress mostly to the keeping of Orodreth his brother.
+The realm of Finrod was the greatest by far.<br><br>
+Falas (Gray Havens) was ruled by Círdan the shipbuilder. There Finrod raised the tower of Barad Nimras to watch over western sea.<br><br>
+Fingolfin was overlord of all the Noldor, and Fingon was after him.<br><br>
+South of Dorthonion there lay empty lands of Dimbar and Nan Dungortheb.<br><br>
+Between Dorthonion and Nan Dungortheb there are Ered Gorgoroth (Mountains of Terror). Ungoliant had fled there from the whips of the Balrogs. Even after she passed her foul offspring lurked and wove their evil nets. And the bodies of water located there were defiled, and perilous to drink. The hearts of those that tasted them were filled with shadows of madness and despair.<br><br>
+South of Nan Dungortheb there lay Doriath and Girdle of Melian.<br><br>
+There's a long wall called Andram, diving Beleriand into North Beleriand and South Beleriand. The wall is pierced by the River Sirion, which runs underground before emerging at the Gates of Sirion.<br><br>
+East of **Andram**, there's a hill called **Amon Ereb**. That is where Denethor, lord of the Nandor, died.<br><br>
+South of **Andram**, there's a forest falled **Taur-im-Duinath**. No folk went there, save a few **Dark Elves**.<br><br>
+The land east of **Taur-im-Duinath** is called Ossiriand, where the river Gelion runs. In Ossiriand dwelt the Green-elves. There was a green river-isle called Tol Galen. There, Beren and Lúthien will dwell. The Noldor named that country **Lindon**.<br><br>
+East of **Dorthonion** there was a hill where Maedhros ruled. That country was called March of Maedhros. The chief citadel of Maedhros was upon the Hill of Himring. Between **Dorthonion** and March of Maedhros there was a pass called **Pass of Aglon**. **Celegorm** and **Curufin** fortified **Aglon**.<br><br>
+**Little news came into Beleriand of what passed in the regions of the East**. <br><br>
+<img src="beleriand.jpg">
+<img src="beleriand_elf_lands.jpg">
+<img src="girdle_of_melian.png">
+
+*Page 144, 145*
+### On the building of Gondolin
+
+With the help of Ulmo, **Turgon of Nevrast** discovered the hidden vale of **Tumladen**. No living thing came there save the eagles of Thorondor. After the **Dagor Aglareb**, he summoned many of the most skilled of his people and led them secretly to the vale. After **Fifty-two years**, they finished building a city known as **Gondolin** in the Sindarin tongue.<br><br>
+**Ulmo appeared to Turgon a final time.**<br>
+Ulmo's promises:
+* He'll guard the Vale of Sirion and its waters. No one will notice the migration or find the hidden entrance unless Turgon allows it
+* Gondolin will hold out against Morgoth longer than any other Elven realm
+
+Ulmo's warnings:
+* Don't love your own creation too much (same flaw as Fëanor with the Silmarils: attachment to what you made)
+* The Noldor's real hope lies in the West and will come from the Sea (i.e. from Valinor, not from hiding)
+* Turgon is still under the Doom of Mandos, and even Ulmo can't lift it
+* So the curse may reach Gondolin in the end: treason inside the walls, then danger of fire
+
+The prophecy of the messenger:
+* If that danger comes, someone will arrive from Nevrast to warn him
+* Through that person, hope for both Elves and Men will be born out of the ruin
+* Turgon must leave armour and a sword in Vinyamar; whoever comes wearing them is the true messenger
+* Ulmo describes exactly what size and kind of helm, mail and sword to leave
+
+<img src="gondolin.png">
+
+**All the people of Nevrast went to Gondolin in secret, amounting to about a third of the Noldor who had followed Fingolfin across the Ice, along with an even larger number of Sindar who lived in Nevrast.**
+
+**After Turgon's people go in, Gondolin is sealed. For many years nobody enters. The only exceptions are brothers Húrin and Huor (two Men, not Elves). Turgon's army doesn't come out again for 350+ years, until the Year of Lamentation.**
+
+The city had white walls, smooth stairs, tall **Tower of the King**, fountains.
+
+It also had the two Trees. Turogn personally made copies of **the Two Trees of valinor** (destroyed by Morgoth and Ungoliant). Golden tree was called **Glingall**. Silver tree was called **Belthil**. They don't give light like the originals.
+
+Turgon's only child was **Idril**.
+
+**Nevrast was left completely empty until Beleriand is destoryed.**
+
+**The armour Ulmo told Turgon to leave is still sitting in the halls of Vinyamar.**
+
+### An important conversation between Galadriel and Melian
+
+Melian tried to discover from Galadriel what had happened in Aman, and the exact reason why the Noldor had come to Beleriand, sensing that something terrible had occurred. Galadriel revealed that the Noldor came to seek vengeance against Morgoth for killing Finwë and stealing the Silmarils. However, she withheld any mention of the Oath, the Kinslaying, or the burning of the ships at Losgar. Knowing that a darker truth remained hidden, Melian pressed her further, but their conversation ended there.
+Later, Melian related everything to Thingol. She understood that the fate of Aman and Arda was locked within the Silmarils, and that the world shall be broken in battles that are to come, ere they are wrestled from Morgoth. Learning of these matters from Melian, Thingol realized the Noldor had come solely for vengeance.
+
+Melian warns Thingol of the sons of Fëanor. <br>
+**The shadow of the wrath of the Valar lies upon them, and they have done evil** <br>
+**Their swords and their counsels shall have two edges**
+
+*Page 148, 149, 150*
+
+### Morgoth spreading the truth of the Noldor's past, and it spreading across Beleriand
+
+Morgoth started spreading the truth of what have Noldor done when leaving Aman (Kinslaying, The curse of Mandos, Burning of ships at Losgar).<br>
+**Círdan** was wise and able to swiftly perceive truth from falsehood, therefore, he sent messengers to Thingol to tell him all that he had heard.<br><br>
+At that time the sons of Finarfin were again guests of Thingol, for they whished to see their sister Galadriel.
+Thingol confronted Finrod. Finrod's defense is that the Noldor have done nothing wrong in Thingol's realm or against his people. Thingol gets angry because they are not even asking for forgiveness.<br><br>
+Finrod goes silent. The only way to clear himself is to blame the other Noldor princes.<br><br>
+**Angrod's defense:**
+* Finarfin's house was innocent. Only guilty of foolishly following Fëanor's speeches
+* They did no harm on the road, suffered harm (abandoned at Losgar), and forgave it
+* He tells everything: the Kinslaying, the Doom of Mandos, the burning of the ships
+* Why should those who crossed the Ice be called kinslayers?
+
+**Melian's correction:**
+* The Doom still lies on you too. Innocence doesn't exempt them. They chose to leave Valinor in rebellion, so they share the curse
+
+**Thingol's verdict:**
+* Sends them away for now, he's too angry. But won't shut them out forever - they're kin, caught in an evil they didn't commit
+* Will stay friends with Fingolfin's people too. They've paid bitterly (the Ice)
+* No such pardon for the Fëanorians
+* **The ban on Quenya**. Never to be spoken in his hearing or openly in his realm. All Sindar ordered not to speak it or answer to it. Anyone using it will be treated as an unrepentant kinslayer
+
+**Result:**
+* Sindar across Beleriand refuse Quenya and avoid those who speak it
+* Noldor switch to Sindarin for daily life
+* Quenya survives only among Noldor lords privately and as a language of lore
+* Finarfin's sons leave knowing the Doom will follow every Noldo who went with Fëanor, guilty or not
+
+### Finrod's foresight at the feast in Nargothrond
+
+Nargothrond was finished (Turgon still lived in Vinyamar, and Gondolin was still being built), and the sons of Finarfin gathered there for a feast in Nargothrond. **Galadriel** came from Doriath and stayed a while.<br><br>
+Galadriel asked **Finrod** why he had no wife. Foresight came upon him: he will swear an oath of his own, must be free to fulfil it, and will go into darkness. Nothing of his realm will last for a son to inherit.<br><br>
+This was not the real reason he never married. He loved **Amarië** of the Vanyar, but she stayed in Valinor and did not follow him into exile.<br><br>
+
+### Of Maeglin
+
+*Page 151*<br>
+**Aredhel leaves Gondolin**
+
+Aredhel, Fingolfin's daughter, lived with Turgon in Nevrast and went with him to Gondolin. After 200 years she grew tired of the closed city and wanted to ride free in the wild like in Valinor.<br>
+Turgon refused for a long time, then agreed, but only if she went to Fingon in Hithlum. He fears anyone outside the walls who knows the way in. He sends three lords with her.<br>
+
+*Page 152*<br>
+**Turned away from Doriath**
+
+At the Ford of Brithiach she changes plan: she wants to find the sons of Fëanor, her old friends. Doriath's guards refuse entry (Thingol lets in no Noldor except Finarfin's house, and least of all friends of the Fëanorians). They tell her to go around, along Doriath's northern edge.<br>
+Near Nan Dungortheb (land of Ungoliant's spawn) she gets lost in the shadows. Her escort is chased by spiders, barely escapes, and returns to Gondolin. Turgon grieves in silence.<br>
+
+**Aredhel in Himlad**
+
+She rides on alone to Himlad, land of **Celegorm** and **Curufin** (sons of Fëanor). They're away with Caranthir (also a son of Fëanor), but their people welcome her. She waits, gets restless again, rides further, and strays into Nan Elmoth.<br>
+
+<img src="nanelmoth.png"><br>
+
+*Page 153, 154*<br>
+**Eöl the Dark Elf**
+
+Eöl is Thingol's kinsman (Sindar). He left Region when the Girdle was set and lives in Nan Elmoth's darkness. He hates the Noldor (blames them for Morgoth's return), but loves the Dwarves, stays in **Nogrod** and **Belegost**, and becomes a master smith. He invents **galvorn**, a black, light, blade-proof metal.<br>
+**He sees Aredhel, desires her, and uses enchantment to lead her to his house.**<br>He takes her as wife.<br>
+
+*Page 155*<br>
+**Life in Nan Elmoth**
+
+She did not entirely resent living there, and she was happy for many years. But she had to avoid sunlight and was forbidden to seek out the Fëanorians or any of the Noldor.<br>
+She has a son. She secretly names him **Lómion** (Quenya, "Child of the Twilight").<br>**Eöl names him only at twelve** - **Maeglin**<br>
+
+*Page 155*<br>
+**Maeglin grows up**
+
+Looks Noldorin, but has his father's mind: few words, but a persuasive, overpowering voice. Learns from the Dwarves, especially finding ores.<br>
+Loves his mother more. She tells him of her family, above all of Turgon, who has no heir but his daughter **Idril**.<br>
+Telling these stories, Aredhel starts missing Gondolin. Maeglin and Eöl start to quarrel. Aredhel refuses to tell Maeglin where Gondolin is. He waits, hoping she will tell him, or that he can read her mind.<br>
+
+Before he could learn the way to **Gondolin**, Maeglin wanted to see the Noldor and talk with the **sons of Fëanor**.
+
+When Eöl finds out, he is furious. Eöl says - Maeglin belongs to Eöl's house, not the Golodhrim (Sindarin word for Noldor). This is Teleri land, and he won't deal with the killers of their kin and invaders of their homes. If Maeglin disobeys, he'll be chained.<br>
+Maeglin says nothing, turns cold, stops going out with his father. Eöl starts to distrust him.<br>
+
+**Maeglin and Aredhel escape**
+
+Eöl goes to a midsummer feast in Nogrod. Maeglin convinces Aredhel to flee with him to Gondolin. They tell the servants they're visiting the sons of Fëanor.<br>
+
+**Eöl finds out**
+
+Eöl returns early, They are ahead of him two days. He chases them even by daylight.<br> Curufin's scouts had seen Aredhel and Maeglin pass.<br>**His riders capture Eöl.**<br>
+
+Eöl lies that he's joining his family on a visit. Curufin lets Eöl go, but refuses to call him kin, since stealing a Noldo's daughter without leave or gift doesn't make him family. He'd kill him if Elvish law allowed.<br>
+
+Curufin last warning is for Eöl to go home, or he will never return.<br>
+
+Eöl, humiliated and full of hate, realises they're heading for Gondolin. At the Brithiach their horses make a neighing sound, his horse hears them, and he sees Aredhel's white robe and **follows her onto the secret path**.<br>
+
+**Maeglin and Aredhel arrive in Gondolin**
+
+Aredhel and Maeglin pass the Seven Gates. Turgon welcomes Maeglin with high honour. Maeglin swears loyalty. His eyes keep going to Idril.<br>
+
+**Eöl arrives in Gondolin**
+
+Eöl sneaks in by the Dry River and is caught. Aredhel confirms he is her husband. Turgon welcomes him as kin, but by law he can never leave.<br>
+
+Eöl rejects it. He says that the Noldor have no right to rule Teleri land. Aredhel may stay, but Maeglin must come with him.<br>
+
+Turgon tells him that the only reason he is safe is that the Noldor protect his woods. He tells him that he must either stay in Gondolin or die.<br>
+
+Eöl chooses death for both himself and his son by throwing a hidden javelin at Maeglin. Aredhel steps in front of Maeglin and is hit in the shoulder.<br>
+
+The javelin was poisoned and Aredhel dies that night.<br>
+
+**Eöl gets no mercy and is thrown from the Caragdûr cliff**. Maeglin watches silently. Eöl's last words are that Maeglin will lose all his hopes here and may die the same way.<br>
+
+**Maeglin rises**
+
+Becomes great and loved in Gondolin. Leads miners and smiths, finds ore in the **Echoriath**, especially iron at **Anghabar**. Gondolin's weapons grow much stronger. Later fights beside Turgon at the **Nirnaeth** instead of staying as regent.<br>
+
+**The dark seed**
+
+**Maeglin secretly loves Idril, his first cousin, which Elves never do**. Idril doesn't love him, and loves him less knowing it. The Eldar see it as a twisted fruit of the Kinslaying, the curse reaching even Gondolin.<br>
+
+**It’s interesting to see Eöl’s hypocrisy. He clearly sees Gondolin as a prison, but he doesn’t see his own home that way or recognize how badly he treats Aredhel and Maeglin.**<br>
+
